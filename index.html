@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guía AVIN - Análisis y Validación de Ideas de Negocio</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome para iconos -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <!-- CSS personalizado -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Barra de navegación -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary sticky-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">AVIN</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#introduccion">Introducción</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#vision-general">Visión General</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Módulos
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#modelo-narrativo">Modelo Narrativo</a></li>
+                            <li><a class="dropdown-item" href="#modelo-numerico">Modelo Numérico</a></li>
+                            <li><a class="dropdown-item" href="#modelo-ecosocial">Modelo Ecosocial</a></li>
+                            <li><a class="dropdown-item" href="#validacion-informes">Validación e Informes</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#guia-uso">Guía de Uso</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Cabecera -->
+    <header class="bg-light py-5">
+        <div class="container px-4 px-lg-5 my-5">
+            <div class="text-center">
+                <h1 class="display-4 fw-bolder">AVIN</h1>
+                <p class="lead fw-normal text-muted mb-0">Análisis y Validación de Ideas de Negocio</p>
+                <p class="text-muted">Una metodología para evaluar la sostenibilidad de proyectos empresariales</p>
+                <p class="text-muted mt-3"><strong>Desarrollado por:</strong> Evaristo Colomina Climent y Leonardo Yáñez Muñoz<br>Profesores de la Universidad de Alicante</p>
+            </div>
+        </div>
+    </header>
+
+    <!-- Contenido principal -->
+    <main class="container my-5">
+        <!-- Introducción -->
+        <section id="introduccion" class="mb-5">
+            <h2 class="border-bottom pb-2 mb-4">Introducción a AVIN</h2>
+            <div class="row">
+                <div class="col-md-8">
+                    <p>AVIN (Análisis y Validación de Ideas de Negocio) es una metodología desarrollada por los profesores Evaristo Colomina Climent y Leonardo Yáñez Muñoz de la Universidad de Alicante para cubrir una laguna constatada en el campo de proyectos empresariales: el análisis amplio, sistemático y bien fundamentado de las ideas de negocio para determinar su validez como punto de partida de una iniciativa empresarial.</p>
+                    <p>Iniciada en torno a 2012, AVIN ha evolucionado hasta convertirse en una metodología completa con una aplicación informática que facilita su uso. La metodología se basa en un enfoque centrado en valor, donde la empresa busca obtener un valor neto positivo como resultado de sus actividades.</p>
+                    <p>AVIN propone un triple modelado (narrativo, numérico y ecosocial) para evaluar la sostenibilidad de un proyecto empresarial desde diferentes perspectivas.</p>
+                </div>
+                <div class="col-md-4">
+                    <div class="card bg-primary text-white">
+                        <div class="card-body">
+                            <h5 class="card-title">Propuesta Única de Valor de AVIN</h5>
+                            <p class="card-text">Evaluación tridimensional simultánea de proyectos empresariales:</p>
+                            <ul>
+                                <li>Sostenibilidad conceptual</li>
+                                <li>Sostenibilidad económica</li>
+                                <li>Sostenibilidad medioambiental y social</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Visión General -->
+        <section id="vision-general" class="mb-5">
+            <h2 class="border-bottom pb-2 mb-4">Visión General de AVIN</h2>
+            <p>AVIN es una aplicación informática desarrollada en entorno de programación ACCESS de Microsoft. Funciona en modo local, mediante la descarga del archivo del programa en el equipo del usuario, y es operativo en los entornos de sistema operativo Windows, sin requerimientos especiales.</p>
+            <p>La aplicación está organizada en cuatro módulos principales:</p>
+            <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4 mt-3">
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title"><i class="fas fa-book me-2"></i>Modelo Narrativo</h5>
+                            <p class="card-text">Herramientas para describir la lógica del negocio, su propuesta de valor y su encaje en el mercado.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title"><i class="fas fa-calculator me-2"></i>Modelo Numérico</h5>
+                            <p class="card-text">Simulación financiera para evaluar la viabilidad y rentabilidad del proyecto.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title"><i class="fas fa-leaf me-2"></i>Modelo Ecosocial</h5>
+                            <p class="card-text">Evaluación de los impactos sociales y medioambientales del proyecto.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title"><i class="fas fa-check-circle me-2"></i>Validación e Informes</h5>
+                            <p class="card-text">Herramientas para evaluar el proyecto y generar informes completos.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Modelo Narrativo -->
+        <section id="modelo-narrativo" class="mb-5">
+            <h2 class="border-bottom pb-2 mb-4">Modelo Narrativo</h2>
+            <p>El módulo narrativo es un conjunto estructurado de herramientas gráficas orientado a la organización de ideas y conceptos. Su finalidad es guiar al usuario en el proceso de generar un modelo descriptivo del proyecto de negocio, incluyendo sus componentes internos básicos y su conexión con el entorno.</p>
+            
+            <div class="accordion" id="accordionNarrativo">
+                <!-- Herramientas para idear -->
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="headingIdear">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseIdear" aria-expanded="true" aria-controls="collapseIdear">
+                            Herramientas para idear
+                        </button>
+                    </h3>
+                    <div id="collapseIdear" class="accordion-collapse collapse show" aria-labelledby="headingIdear" data-bs-parent="#accordionNarrativo">
+                        <div class="accordion-body">
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <div class="card">
+                                        <div class="card-header bg-primary text-white">
+                                            <h5 class="mb-0">Lienzo de definición de idea</h5>
+                                        </div>
+                                        <div class="card-body">
+                                            <p>Permite elaborar una descripción básica del concepto de negocio a modelar sin omitir ningún extremo importante.</p>
+                                            <p><strong>Botón:</strong> Se accede desde el panel del Modelo Narrativo.</p>
+                                            <p><strong>Funcionalidad:</strong> El usuario describe los parámetros que dan forma a la idea, y el programa genera un resumen en una plantilla tipo elevator pitch.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <div class="card">
+                                        <div class="card-header bg-primary text-white">
+                                            <h5 class="mb-0">Lienzo de propuesta de valor</h5>
+                                        </div>
+                                        <div class="card-body">
+                                            <p>Ayuda a afinar la definición de la oferta al consumidor y contrastar el grado de encaje entre esta y las demandas del cliente.</p>
+                                            <p><strong>Botón:</strong> Se accede desde el panel del Modelo Narrativo.</p>
+                                            <p><strong>Funcionalidad:</strong> Permite describir el perfil del cliente (trabajos, frustraciones y ganancias) y el mapa de valor (productos/servicios, generadores de ganancias y eliminadores de frustraciones).</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Herramientas para describir -->
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="headingDescribir">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDescribir" aria-expanded="false" aria-controls="collapseDescribir">
+                            Herramientas para describir
+                        </button>
+                    </h3>
+                    <div id="collapseDescribir" class="accordion-collapse collapse" aria-labelledby="headingDescribir" data-bs-parent="#accordionNarrativo">
+                        <div class="accordion-body">
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <div class="card">
+                                        <div class="card-header bg-primary text-white">
+                                            <h5 class="mb-0">Lienzo de modelo de negocio</h5>
+                                        </div>
+                                        <div class="card-body">
+                                            <p>Permite la descripción completa del proyecto con todos sus elementos clave.</p>
+                                            <p><strong>Botón:</strong> Se accede desde el panel del Modelo Narrativo.</p>
+                                            <p><strong>Funcionalidad:</strong> Basado en el Business Model Canvas de Osterwalder, pero ampliado con tres bloques adicionales: misión, visión y criterios de éxito.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <div class="card">
+                                        <div class="card-header bg-primary text-white">
+                                            <h5 class="mb-0">Panel Líneas de negocio</h5>
+                                        </div>
+                                        <div class="card-body">
+                                            <p>Permite reflexionar sobre las líneas de negocio que conviene diferenciar en el proyecto.</p>
+                                            <p><strong>Botón:</strong> Se accede desde el panel del Modelo Narrativo.</p>
+                                            <p><strong>Funcionalidad:</strong> Sirve de entrada para el módulo numérico, estableciendo las diferentes líneas de negocio a considerar en la simulación financiera.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Herramientas para evaluar -->
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="headingEvaluar">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEvaluar" aria-expanded="false" aria-controls="collapseEvaluar">
+                            Herramientas para evaluar
+                        </button>
+                    </h3>
+                    <div id="collapseEvaluar" class="accordion-collapse collapse" aria-labelledby="headingEvaluar" data-bs-parent="#accordionNarrativo">
+                        <div class="accordion-body">
+                            <div class="row">
+                                <div class="col-md-4 mb-3">
+                                    <div class="card">
+                                        <div class="card-header bg-primary text-white">
+                                            <h5 class="mb-0">Análisis DAFO</h5>
+                                        </div>
+                                        <div class="card-body">
+                                            <p>Permite analizar las debilidades, amenazas, fortalezas y oportunidades del proyecto.</p>
+                                            <p><strong>Botones:</strong> Selección de factores, Ponderación de factores, Valoración de factores, Matriz DAFO, Matriz TOWS.</p>
+                                            <p><strong>Funcionalidad:</strong> Versión cuantitativa del DAFO basada en ponderaciones y valoraciones de factores.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 mb-3">
+                                    <div class="card">
+                                        <div class="card-header bg-primary text-white">
+                                            <h5 class="mb-0">Generador de escenarios</h5>
+                                        </div>
+                                        <div class="card-body">
+                                            <p>Permite contemplar diferentes contextos futuros para el proyecto.</p>
+                                            <p><strong>Botones:</strong> Identificación de factores de riesgo, Valoración de impactos, Mapa de calor.</p>
+                                            <p><strong>Funcionalidad:</strong> Basado en análisis PESTEL, genera tres escenarios (probable, optimista y pesimista) y evalúa su impacto en el modelo de negocio.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 mb-3">
+                                    <div class="card">
+                                        <div class="card-header bg-primary text-white">
+                                            <h5 class="mb-0">Análisis competitivo</h5>
+                                        </div>
+                                        <div class="card-body">
+                                            <p>Permite comparar el proyecto con sus competidores en el mercado.</p>
+                                            <p><strong>Botones:</strong> Selección y factores de competencia, Valoración, Mapa de valor, Matriz ERIC.</p>
+                                            <p><strong>Funcionalidad:</strong> Basado en herramientas de la "estrategia océano azul", ayuda a posicionar el proyecto frente a la competencia.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Modelo Numérico -->
+        <section id="modelo-numerico" class="mb-5">
+            <h2 class="border-bottom pb-2 mb-4">Modelo Numérico</h2>
+            <p>El módulo numérico es un modelo de simulación que proyecta a futuro hipótesis de desempeño y decisiones económicas y financieras relativas al proyecto de negocio, generando informes estructurados que reflejan sus consecuencias.</p>
+            
+            <div class="accordion" id="accordionNumerico">
+                <!-- Corto Plazo -->
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="headingCorto">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCorto" aria-expanded="true" aria-controls="collapseCorto">
+                            Modelo a Corto Plazo
+                        </button>
+                    </h3>
+                    <div id="collapseCorto" class="accordion-collapse collapse show" aria-labelledby="headingCorto" data-bs-parent="#accordionNumerico">
+                        <div class="accordion-body">
+                            <h4>Entrada de datos (previsiones)</h4>
+                            <div class="row row-cols-1 row-cols-md-3 g-4 mb-4">
+                                <div class="col">
+                                    <div class="card h-100">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Líneas de Negocio</h5>
+                                            <p class="card-text">Permite revisar las líneas de negocio a considerar en la simulación.</p>
+                                            <p><strong>Botón:</strong> LÍNEAS DE NEGOCIO</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card h-100">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Previsiones Económicas</h5>
+                                            <p class="card-text">Introducción de hipótesis básicas de la simulación a corto plazo.</p>
+                                            <p><strong>Botón:</strong> PREV. ECONÓMICAS</p>
+                                            <div class="mt-3">
+                                                <img src="images/figura66.svg" alt="Previsiones económicas globales" class="img-fluid rounded" title="Figura 66: Previsiones económicas globales">
+                                                <p class="text-muted small mt-1">Figura 66: Previsiones económicas globales</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card h-100">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Líneas Previsiones</h5>
+                                            <p class="card-text">Detalle de datos clave de cada línea de negocio.</p>
+                                            <p><strong>Botón:</strong> PREVISIONES (dentro de Previsiones Económicas)</p>
+                                            <div class="mt-3">
+                                                <img src="images/figura67.svg" alt="Previsiones económicas por línea de negocio" class="img-fluid rounded" title="Figura 67: Previsiones económicas por línea de negocio">
+                                                <p class="text-muted small mt-1">Figura 67: Previsiones económicas por línea de negocio</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card h-100">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Gastos Generales</h5>
+                                            <p class="card-text">Identificación de conceptos de gasto, importes anuales, distribución temporal y política de pago.</p>
+                                            <p><strong>Botón:</strong> GASTOS GENERALES</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card h-100">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Gastos de Personal</h5>
+                                            <p class="card-text">Identificación de gastos de personal, importes anuales, distribución temporal y política de pago.</p>
+                                            <p><strong>Botón:</strong> GASTOS DE PERSONAL</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card h-100">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Inversiones</h5>
+                                            <p class="card-text">Especificación de inversiones a realizar y previsiones financieras correspondientes.</p>
+                                            <p><strong>Botón:</strong> INVERSIONES-PREVISIONES</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <h4>Resultados</h4>
+                            <div class="row row-cols-1 row-cols-md-3 g-4">
+                                <div class="col">
+                                    <div class="card h-100">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Plan de Ventas</h5>
+                                            <p class="card-text">Visualización gráfica y mediante cifras de la distribución temporal de las ventas.</p>
+                                            <p><strong>Botón:</strong> PLAN VENTAS</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card h-100">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Resultados por Líneas</h5>
+                                            <p class="card-text">Muestra gráficamente y en cifras la contribución a los beneficios de cada línea de negocio.</p>
+                                            <p><strong>Botón:</strong> RESULTADOS LÍNEAS DE NEGOCIO</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card h-100">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Resultados</h5>
+                                            <p class="card-text">Presenta la cuenta de resultados por año en una base mensual en sus ítems más relevantes.</p>
+                                            <p><strong>Botón:</strong> RESULTADOS</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card h-100">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Balances</h5>
+                                            <p class="card-text">Describe mensualmente la composición del balance de situación del negocio.</p>
+                                            <p><strong>Botón:</strong> BALANCES</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card h-100">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Tesorería</h5>
+                                            <p class="card-text">Muestra todos los cobros y pagos mensuales por diferentes conceptos.</p>
+                                            <p><strong>Botón:</strong> TESORERÍA</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card h-100">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Actualizar Corto</h5>
+                                            <p class="card-text">Procesa las previsiones y decisiones incorporadas al modelo para generar los resultados.</p>
+                                            <p><strong>Botón:</strong> ACTUALIZAR CORTO</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Largo Plazo -->
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="headingLargo">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLargo" aria-expanded="false" aria-controls="collapseLargo">
+                            Modelo a Largo Plazo
+                        </button>
+                    </h3>
+                    <div id="collapseLargo" class="accordion-collapse collapse" aria-labelledby="headingLargo" data-bs-parent="#accordionNumerico">
+                        <div class="accordion-body">
+                            <p>El modelo a largo plazo permite proyectar el comportamiento del negocio en un horizonte temporal más amplio, generalmente de 3 a 5 años.</p>
+                            <div class="row row-cols-1 row-cols-md-3 g-4">
+                                <div class="col">
+                                    <div class="card h-100">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Hipótesis Largo Plazo</h5>
+                                            <p class="card-text">Permite introducir hipótesis sobre el comportamiento futuro de las variables clave del negocio.</p>
+                                            <p><strong>Botón:</strong> HIPÓTESIS LARGO PLAZO</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card h-100">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Resultados Largo Plazo</h5>
+                                            <p class="card-text">Muestra los resultados proyectados a largo plazo en función de las hipótesis introducidas.</p>
+                                            <p><strong>Botón:</strong> RESULTADOS LARGO PLAZO</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card h-100">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Actualizar Largo</h5>
+                                            <p class="card-text">Procesa las hipótesis de largo plazo para generar los resultados proyectados.</p>
+                                            <p><strong>Botón:</strong> ACTUALIZAR LARGO</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Modelo Ecosocial -->
+        <section id="modelo-ecosocial" class="mb-5">
+            <h2 class="border-bottom pb-2 mb-4">Modelo Ecosocial</h2>
+            <p>El módulo ecosocial está orientado a evaluar los impactos sociales y medioambientales del proyecto de negocio, siguiendo el concepto de triple balance (Triple Bottom Line) de John Elkington.</p>
+            
+            <div class="row row-cols-1 row-cols-md-2 g-4">
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Impacto Medioambiental</h5>
+                            <p class="card-text">Permite evaluar el impacto del proyecto en términos medioambientales, considerando aspectos como consumo de recursos, emisiones, residuos, etc.</p>
+                            <p><strong>Botón:</strong> Se accede desde el panel del Modelo Ecosocial.</p>
+        
+        <!-- Validación e Informes -->
+        <section id="validacion-informes" class="mb-5">
+            <h2 class="border-bottom pb-2 mb-4">Validación e Informes</h2>
+            <p>El módulo de validación e informes proporciona herramientas para evaluar el proyecto en su conjunto y generar informes completos que resumen todo el trabajo realizado en los módulos anteriores.</p>
+            
+            <div class="row mb-4">
+                <div class="col-md-6 text-center">
+                    <img src="images/figura112.svg" alt="Panel validación e informes" class="img-fluid rounded" title="Figura 112: Panel validación e informes">
+                    <p class="text-muted small mt-2">Figura 112: Panel validación e informes</p>
+                </div>
+                <div class="col-md-6 text-center">
+                    <img src="images/figura111.svg" alt="Comunicación - Informe resumen" class="img-fluid rounded" title="Figura 111: Comunicación - Informe resumen">
+                    <p class="text-muted small mt-2">Figura 111: Comunicación - Informe resumen</p>
+                </div>
+            </div>
+            
+            <div class="row row-cols-1 row-cols-md-2 g-4">
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Validación del Proyecto</h5>
+                            <p class="card-text">Permite evaluar el proyecto en su conjunto, considerando los resultados de los tres modelados (narrativo, numérico y ecosocial).</p>
+                            <p><strong>Botón:</strong> VALIDACIÓN</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Informes</h5>
+                            <p class="card-text">Permite generar informes completos que resumen todo el trabajo realizado en los módulos anteriores.</p>
+                            <p><strong>Botón:</strong> INFORMES</p>
+                            <div class="row mt-3">
+                                <div class="col-md-6">
+                                    <img src="images/figura123.svg" alt="Informes estándar" class="img-fluid rounded" title="Figura 123: Informes estándar">
+                                    <p class="text-muted small mt-1">Figura 123: Informes estándar</p>
+                                </div>
+                                <div class="col-md-6">
+                                    <img src="images/figura124.svg" alt="Informes personalizados" class="img-fluid rounded" title="Figura 124: Informes personalizados">
+                                    <p class="text-muted small mt-1">Figura 124: Informes personalizados</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Guía de Uso -->
+        <section id="guia-uso" class="mb-5">
+            <h2 class="border-bottom pb-2 mb-4">Guía de Uso de AVIN</h2>
+            <p>A continuación, se presenta una guía paso a paso para utilizar AVIN de manera efectiva:</p>
+            
+            <div class="accordion" id="accordionGuia">
+                <!-- Inicio -->
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="headingInicio">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInicio" aria-expanded="true" aria-controls="collapseInicio">
+                            1. Inicio y Creación de Proyecto
+                        </button>
+                    </h3>
+                    <div id="collapseInicio" class="accordion-collapse collapse show" aria-labelledby="headingInicio" data-bs-parent="#accordionGuia">
+                        <div class="accordion-body">
+                            <ol>
+                                <li>Inicie la aplicación AVIN haciendo doble clic en el archivo del programa.</li>
+                                <li>En la pantalla de inicio, haga clic en el botón <strong>INICIO</strong> para acceder a la pantalla de administración de proyectos.</li>
+                                <li>Registre el nombre de la idea sobre la que va a trabajar y especifique los parámetros básicos: mes y año de arranque de operaciones, y número de años a estudiar a corto y largo plazo.</li>
+                                <li>Haga clic en el botón <strong>IR AL PROYECTO</strong> para acceder al menú general de la aplicación.</li>
+                            </ol>
+                            <div class="alert alert-info">
+                                <i class="fas fa-info-circle me-2"></i> El botón <strong>INICIO</strong> en la pantalla inicial es el primer paso para comenzar a trabajar con AVIN.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Modelo Narrativo -->
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="headingGuiaNarrativo">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseGuiaNarrativo" aria-expanded="false" aria-controls="collapseGuiaNarrativo">
+                            2. Trabajo con el Modelo Narrativo
+                        </button>
+                    </h3>
+                    <div id="collapseGuiaNarrativo" class="accordion-collapse collapse" aria-labelledby="headingGuiaNarrativo" data-bs-parent="#accordionGuia">
+                        <div class="accordion-body">
+                            <ol>
+                                <li>En el menú general, haga clic en el botón <strong>MODELO NARRATIVO</strong>.</li>
+                                <li>Comience por las herramientas para idear:
+                                    <ul>
+                                        <li>Complete el lienzo de definición de idea.</li>
+                                        <li>Trabaje en el lienzo de propuesta de valor.</li>
+                                    </ul>
+                                </li>
+                                <li>Continúe con las herramientas para describir:
+                                    <ul>
+                                        <li>Complete el lienzo de modelo de negocio.</li>
+                                        <li>Defina las líneas de negocio.</li>
+                                    </ul>
+                                </li>
+                                <li>Finalice con las herramientas para evaluar:
+                                    <ul>
+                                        <li>Realice el análisis DAFO.</li>
+                                        <li>Genere escenarios con el análisis PESTEL.</li>
+                                        <li>Complete el análisis competitivo.</li>
+                                    </ul>
+                                </li>
+                            </ol>
+                            <div class="alert alert-info">
+                                <i class="fas fa-info-circle me-2"></i> Se recomienda seguir el orden de las herramientas de arriba hacia abajo en el panel del Modelo Narrativo.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Modelo Numérico -->
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="headingGuiaNumerico">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseGuiaNumerico" aria-expanded="false" aria-controls="collapseGuiaNumerico">
+                            3. Trabajo con el Modelo Numérico
+                        </button>
+                    </h3>
+                    <div id="collapseGuiaNumerico" class="accordion-collapse collapse" aria-labelledby="headingGuiaNumerico" data-bs-parent="#accordionGuia">
+                        <div class="accordion-body">
+                            <ol>
+                                <li>En el menú general, haga clic en el botón <strong>MODELO NUMÉRICO</strong> en la opción <strong>EDITAR</strong>.</li>
+                                <li>Comience con el modelo a corto plazo:
+                                    <ul>
+                                        <li>Revise las líneas de negocio.</li>
+                                        <li>Introduzca las previsiones económicas globales.</li>
+                                        <li>Detalle las previsiones por línea de negocio.</li>
+                                        <li>Especifique los gastos generales y de personal.</li>
+                                        <li>Defina las inversiones y su financiación.</li>
+                                        <li>Haga clic en <strong>ACTUALIZAR CORTO</strong> para procesar los datos.</li>
+                                    </ul>
+                                </li>
+                                <li>Continúe con el modelo a largo plazo:
+                                    <ul>
+                                        <li>Introduzca las hipótesis de largo plazo.</li>
+                                        <li>Haga clic en <strong>ACTUALIZAR LARGO</strong> para procesar los datos.</li>
+                                    </ul>
+                                </li>
+                                <li>Revise los resultados en las pantallas correspondientes.</li>
+                            </ol>
+                            <div class="alert alert-info">
+                                <i class="fas fa-info-circle me-2"></i> El botón <strong>ACTUALIZAR CORTO</strong> es esencial para procesar las previsiones y generar los resultados a corto plazo.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Modelo Ecosocial -->
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="headingGuiaEcosocial">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseGuiaEcosocial" aria-expanded="false" aria-controls="collapseGuiaEcosocial">
+                            4. Trabajo con el Modelo Ecosocial
+                        </button>
+                    </h3>
+                    <div id="collapseGuiaEcosocial" class="accordion-collapse collapse" aria-labelledby="headingGuiaEcosocial" data-bs-parent="#accordionGuia">
+                        <div class="accordion-body">
+                            <ol>
+                                <li>En el menú general, haga clic en el botón <strong>MODELO ECOSOCIAL</strong>.</li>
+                                <li>Evalúe el impacto medioambiental del proyecto.</li>
+                                <li>Evalúe el impacto social del proyecto.</li>
+                                <li>Establezca objetivos y metas ecosociales para el proyecto.</li>
+                            </ol>
+                            <div class="alert alert-info">
+                                <i class="fas fa-info-circle me-2"></i> El modelo ecosocial es fundamental para evaluar la sostenibilidad medioambiental y social del proyecto.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Validación e Informes -->
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="headingGuiaValidacion">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseGuiaValidacion" aria-expanded="false" aria-controls="collapseGuiaValidacion">
+                            5. Validación e Informes
+                        </button>
+                    </h3>
+                    <div id="collapseGuiaValidacion" class="accordion-collapse collapse" aria-labelledby="headingGuiaValidacion" data-bs-parent="#accordionGuia">
+                        <div class="accordion-body">
+                            <ol>
+                                <li>En el menú general, haga clic en el botón <strong>VALIDACIÓN E INFORMES</strong>.</li>
+                                <li>Utilice la herramienta de validación para evaluar el proyecto en su conjunto.</li>
+                                <li>Genere informes completos que resuman todo el trabajo realizado.</li>
+                                <li>Exporte los informes para su presentación o análisis posterior.</li>
+                            </ol>
+                            <div class="alert alert-info">
+                                <i class="fas fa-info-circle me-2"></i> Los informes generados pueden ser exportados y compartidos con otros interesados en el proyecto.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Pie de página -->
+    <footer class="py-5 bg-dark">
+        <div class="container">
+            <p class="m-0 text-center text-white">AVIN - Análisis y Validación de Ideas de Negocio</p>
+            <p class="m-0 text-center text-white">Una metodología para evaluar la sostenibilidad de proyectos empresariales</p>
+            <p class="m-0 text-center text-white mt-3">© Evaristo Colomina Climent y Leonardo Yáñez Muñoz - Profesores de la Universidad de Alicante</p>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

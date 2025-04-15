@@ -1,0 +1,58 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo del panel -->
+  <rect width="800" height="500" fill="#f8f9fa" rx="10" ry="10" />
+  
+  <!-- Título del panel -->
+  <rect x="20" y="20" width="760" height="60" fill="#0d6efd" rx="5" ry="5" />
+  <text x="400" y="60" font-family="Arial" font-size="24" fill="white" text-anchor="middle" font-weight="bold">Panel Validación e Informes</text>
+  
+  <!-- Panel principal -->
+  <rect x="50" y="100" width="700" height="350" fill="white" stroke="#dee2e6" stroke-width="2" rx="5" ry="5" />
+  
+  <!-- Sección de Validación -->
+  <rect x="70" y="120" width="320" height="310" fill="#e9ecef" rx="5" ry="5" />
+  <text x="230" y="150" font-family="Arial" font-size="18" fill="#212529" text-anchor="middle" font-weight="bold">VALIDACIÓN</text>
+  
+  <!-- Botones de Validación -->
+  <rect x="100" y="180" width="260" height="50" fill="#0d6efd" rx="5" ry="5" />
+  <text x="230" y="210" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Validación Conceptual</text>
+  
+  <rect x="100" y="250" width="260" height="50" fill="#0d6efd" rx="5" ry="5" />
+  <text x="230" y="280" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Validación Económica</text>
+  
+  <rect x="100" y="320" width="260" height="50" fill="#0d6efd" rx="5" ry="5" />
+  <text x="230" y="350" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Validación Ecosocial</text>
+  
+  <!-- Sección de Informes -->
+  <rect x="410" y="120" width="320" height="310" fill="#e9ecef" rx="5" ry="5" />
+  <text x="570" y="150" font-family="Arial" font-size="18" fill="#212529" text-anchor="middle" font-weight="bold">INFORMES</text>
+  
+  <!-- Botones de Informes -->
+  <rect x="440" y="180" width="260" height="50" fill="#0d6efd" rx="5" ry="5" />
+  <text x="570" y="210" font-family="Arial" font-size="16" fill="white" text-anchor="middle">ESTÁNDAR</text>
+  
+  <rect x="440" y="250" width="260" height="50" fill="#0d6efd" rx="5" ry="5" />
+  <text x="570" y="280" font-family="Arial" font-size="16" fill="white" text-anchor="middle">PERSONALIZADO</text>
+  
+  <rect x="440" y="320" width="260" height="50" fill="#0d6efd" rx="5" ry="5" />
+  <text x="570" y="350" font-family="Arial" font-size="16" fill="white" text-anchor="middle">EXPORTAR</text>
+  
+  <!-- Iconos -->
+  <!-- Icono de validación -->
+  <circle cx="90" y="150" r="15" fill="#198754" />
+  <text x="90" y="155" font-family="Arial" font-size="16" fill="white" text-anchor="middle">✓</text>
+  
+  <!-- Icono de informes -->
+  <rect x="430" y="135" width="25" height="30" fill="#212529" />
+  <rect x="435" y="130" width="15" height="5" fill="#212529" />
+  <line x1="435" y1="145" x2="450" y2="145" stroke="white" stroke-width="1" />
+  <line x1="435" y1="150" x2="450" y2="150" stroke="white" stroke-width="1" />
+  <line x1="435" y1="155" x2="450" y2="155" stroke="white" stroke-width="1" />
+  
+  <!-- Botón de volver -->
+  <rect x="50" y="420" width="120" height="40" fill="#6c757d" rx="5" ry="5" />
+  <text x="110" y="445" font-family="Arial" font-size="14" fill="white" text-anchor="middle">VOLVER</text>
+  
+  <!-- Pie de página -->
+  <text x="400" y="480" font-family="Arial" font-size="12" fill="#6c757d" text-anchor="middle">Fuente: Software AVIN</text>
+</svg>

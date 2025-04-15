@@ -1,0 +1,1957 @@
+CAPÍTULO 4
+METODOLOGÍA A VIN: FUNDAMENTOS, 
+PROCEDIMIENTO Y TÉCNICAS
+,ඇඍඋඈൽඎർർංඬඇൺඅർൺඉටඍඎඅඈ
+A VIN es, en sus comienzos, una experiencia de tipo académico de sarrollada 
+al objeto de cubrir una laguna constatada en el campo de proyec tos empre-
+sariales: el análisis amplio, sistemático y bien fundamentado d e las ideas de 
+negocio al objeto de determinar su validez como punto de partid a de una 
+iniciativa empresarial.
+Iniciamos este proyecto en torno a 2012, al hilo de una serie d e seminarios 
+de tipo práctico, con un conjunto muy limitado de herramientas de análisis, 
+hasta llegar a la formulación actual de la metodología, en para lelo con el 
+desarrollo de una aplicación informática que facilita su uso. E n este capítulo 
+vamos a explicar en qué consiste A VIN. En primer lugar, se expo ne la funda-
+mentación teórica de la metodología; a continuación, explicamos  el conjunto 
+de técnicas y métodos que conforman su caja de herramientas. En  el capítulo 
+VLJXLHQWHSRU¿QGHVFULELPRVODDFWXDOYHUVLyQGHODDSOLFDFL yQ$9,1
+%ൺඌൾඌඍൾඬඋංർൺඌൽൾ$9,1
+Como explica Mario Bunge (Bunge, 2002), una condición de valide z para 
+toda investigación es lo que él denomina «requisito de consiste ncia externa», 
+que estriba en que los elementos de nuestras aportaciones al co nocimiento y 
+a la práctica (conceptos, hipótesis, marcos conceptuales, metod ologías...) sean 
+compatibles con el mejor conocimiento disponible. 
+$¿QGHFXPSOLPHQWDUWDOUHTXLVLWRSURFHGHUHPRVDFRQWLQXDFLyQ DH[SR -
+ner la fundamentación teórica sobre la que hemos elaborado la m etodología 
+A VIN. En el capítulo 2 de este tr abajo ya hemos explicado sus c onceptos cen-
+trales, que son el de modelo de negocio , que es el artefacto que construimos 
+para abordar la tarea de analizar los proyectos de negocio, y e l de sostenibili-
+dad, que utilizamos como condición y criterio de evaluación.
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 80
+La conexión de ambos conceptos viene dada por lo que podríamos deno-
+minar el principio básico de la actividad empresarial, que no e s otro que la 
+creación de valor, es decir, la resolución de problemas o satis facción de nece-
+sidades y deseos (de los propios empresarios, sus clientes y, e ventualmente, 
+otros grupos interesados) mediante el desarrollo de dicha activ idad. En esta 
+perspectiva, el modelo de negocio es el instrumento que guía la  implementa-
+ción de la actividad empresarial, y la sostenibilidad, entendid a como balance 
+positivo entre el valor consumi do y el generado por la activida d, es la fórmula 
+que la dota de sentido.
+Como referencia general de la metodología A VIN adoptamos, en co nse-
+cuencia, un enfoque centrado en valor, en el que la empresa, co mo todo siste-
+PDDUWL¿FLDOHQFRQWUDSRVLFLyQDORVQDWXUDOHVFRQQRWDSURSy VLWR¿QDOLGDG
+en su caso obtener valor neto positivo como resultante de sus a ctividades; 
+para ello, diseña e implementa un conjunto ordenado de recursos , estrategias 
+\RWURVHOHPHQWRVQHFHVDULRVSDUDODFRQVHFXFLyQGHVXV¿QHVH VGHFLUXQ
+modelo de negocio. El funcionamiento del modelo implica el cons umo de di-
+ferentes tipos de capitales (valores) y la producción de result ados en distintas 
+formas de valor.
+Una manera muy precisa de representar este marco conceptual de nuestra 
+metodología, y que por ello constituye una de nuestras referenc ias teóricas, 
+nos la proporciona el esquema de proceso de creación, preservac ión o erosión 
+de valor elaborado por el Consejo Internacional de Reporte Inte grado (IIRC, 
+\TXHYHPRVHQOD¿JXUDVLJXLHQWH¿JXUD
+Figura 26. Creación, preservación o erosión de valor a través d el modelo de negocio.
+Fuente: IIRC, 2021.
+
+
+Para saltar con red 81
+Establecido el lugar central del modelo de negocio como unidad de análi-
+VLVGHORVSUR\HFWRVHPSUHVDULDOHVWRGDYH]TXHVHUiVXFRQ¿JX UDFLyQ\FRQ -
+tenido lo que determine el éxito o fracaso de las iniciativas, el paso siguiente 
+será determinar cómo construir esa unidad de análisis para pode r realizar una 
+HYDOXDFLyQH¿FD]2EVpUYHVHTXHHQIRFiQGRQRVDOPRGHORGHQHJRF LRQRV
+obliga a examinar no solo el clásico problema estudiado en los análisis de 
+viabilidad de los negocios, la captura de valor, sino también l os otros aspec-
+tos sustanciales como la creación y distribución de valor. Tal y como hemos 
+señalado en el capítulo 2 de este trabajo, el modelo de negocio  ha sido concep-
+tualizado de muchas maneras desde que se popularizó en los años  noventa del 
+VLJORSDVDGRSHVHDHOORQRDEXQGDQODVGH¿QLFLRQHVTXHQRVS URSRUFLRQHQ
+una orientación expresa de cara a evaluar sus expectativas; con  una excepción, 
+la aportación de la profesora Joan Magretta en su muy citado ar tículo de la 
+Harvard Business Review , «Why Business Models Matters» (Magretta, 2002).
+En dicho artículo hay dos observaciones que nos parecen destaca bles; 
+HQSULPHUOXJDU0DJUHWWDVHxDODTXH©/RVPRGHORVGHQHJRFLR>« @QRVRQ
+QDGDPLVWHULRVR6RQHQHOIRQGRQDUUDFLRQHV>«@TXHH[SOLFDQ FyPRIXQ -
+cionan las empresas», y, más adelante, «aplicado correctamente [el modelo de 
+negocio] fuerza a los directivos a pensar rigurosamente sobre s us negocios. 
+Una de las mayores fortalezas del modelo de negocio como herram ienta de 
+SODQL¿FDFLyQFRQVLVWHHQTXHHQIRFDODDWHQFLyQVREUHFyPRWRGR VORVHOH -
+mentos del sistema encajan en un conjunto [coherente] en funcio namiento». 
+Posteriormente, escribe lo que para nosotros supuso el impulso inicial para 
+la elaboración de una metodología de evaluación de proyectos de  negocio: 
+«Cuando los modelos de negocio no funcionan es porque fracasan ya sea en el 
+test narrativo (el relato [del negocio] carece de sentido) o en  el test numérico 
+(la cuenta de resultados no es positiva)». 
+Inspirados por estas ideas, elaboramos unas primeras versiones de la me-
+todología A VIN (y de la ap licación informática que la implement a) orientadas 
+a poner a disposición de interesados en iniciar o mejorar proye ctos empresa-
+ULDOHVKHUUDPLHQWDVTXHIDFLOLWDVHQXQGREOHPRGHODGRQDUUDWLY R\¿QDQFLHUR
+de sus ideas, de modo que pudiesen calibrar de modo sistemático  las expec-
+tativas del proyecto.
+Así, dimos a conocer A VIN mediante el artículo «Herramientas pa ra el 
+análisis y validación de ideas de negocios» (Colomina & Yáñez, 2014), al 
+tiempo que desarrollamos talleres y seminarios prácticos en los  que se aplicó 
+la metodología a proyectos e iniciativas reales.
+En los momentos iniciales, la base de la evaluación narrativa e ra el lien-
+zo de modelo de negocio (Osterwalder & Pigneur, 2010) en tanto el test 
+QXPpULFRVHVXVWHQWDEDHQXQDVLPXODFLyQ¿QDQFLHUDDFRUWR\O DUJRSOD]R
+implementada en una hoja de cálculo Excel. Una plantilla de aso ciación de 
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 82
+FRQFHSWRV¿QDQFLHURV\QDUUDWLYRVQRVVHUYtDGHHOHPHQWRGHFRQ H[LyQHQWUH
+DPERVPRGHODGRVSDUDHQGH¿QLWLYDDVHJXUDUODFRQVLVWHQFLDGH DPERVPR -
+delados respecto al proyecto sometido a evaluación.
+En los años inmediatamente posteriores hemos evolucionado la me todo-
+logía en el sentido de mejorar la vertiente del software : esto es, manteniendo 
+el principio de la necesidad del doble modelado (narrativo y nu mérico), se 
+WUDWyGHSRGHUDSOLFDUORFRQXQDKHUUDPLHQWDLQIRUPiWLFDPiVVR ¿VWLFDGD\FRQ
+mayor «usabilidad». A tales efectos, optamos por utilizar como plataforma 
+de programación Access de Microsoft, así como «informatizar» ta mbién el 
+diseño del modelo narrativo.
+El resultado de este esfuerzo se plasmó en una nueva versión de l software  
+$9,1FX\RFRQWHQLGR\¿QDOLGDGH[SOLFDPRVHQHODUWtFXOR©(YDOX DFLyQGH
+modelos de negocio asistida por computador» (Colomina & Yáñez, 2017). 
+Finalmente, en 2019, constatamos que nuestra metodología debía incorporar 
+la vertiente de la sostenibilidad a su caja de herramientas par a ser un instru-
+mento realmente útil en la evalu ación de proyectos empresariale s actuales. La 
+LQTXLHWXGSRUODVFRQVHFXHQFLDVQRHVWULFWDPHQWH¿QDQFLHUDVGH ODDFWLYLGDG
+empresarial ya había sido expresada de forma contundente por el  profesor 
+Kenneth Boulding al exigir a los economistas tomar conciencia d e los lími-
+tes de nuestro planeta en su célebre artículo «La economía de l a futura nave 
+espacial tierra» (Boulding, 1966). En realidad, no estaba muy c onvencido de 
+haber tenido éxito en su llamamiento, ya que, en una comparecen cia ante el 
+Congreso de los Estados Unidos en 1973, pronunció la siguiente frase: «cual-
+quiera que crea que el crecimiento exponencial puede durar para  siempre en 
+XQPXQGR¿QLWRHVXQORFRRXQHFRQRPLVWDª
+En todo caso, la referencia en la que nos basamos para incorpor ar esa 
+preocupación a nuestra metodología es la del concepto de triple  b a l a n c e  o  
+triple resultado [ Triple Bottom Line, en inglés] de John Elkington, acuñado en 
+su célebre libro Cannibals with Forks: The Triple Bottom Line of 21st Century 
+Business  (Elkington, 1997).
+La tesis fundamental de Elkington, y la razón por la que es nec esario que 
+ORVQHJRFLRVDSUHFLHQ\HYDO~HQQRVRORVXVUHVXOWDGRV¿QDQFLHU RVHVTXH
+«Solo una compañía que produce un TBL [Triple Bottom Line] está  teniendo 
+HQFXHQWDODWRWDOLGDGGHORVFRVWHV>\EHQH¿FLRV@LPSOLFDGRVH QODDFWLYLGDG
+empresarial» (Elkington, 1997). En otras palabras, conocer el i mpacto real 
+de una empresa, su desempeño efectivo en el cumplimiento de su propósito 
+existencial (crear valor neto positivo) exige integrar en el cá lculo del saldo 
+¿QDOIRUPDVGHYDORUSRVLWLYDVRQHJDWLYDVQR¿QDQFLHUDVHVGH FLUVRFLDOHV
+o medioambientales) que, sin embargo, son consecuencia de su ac tividad, 
+aunque no tengan traducción explícita en la cuenta de resultado s. En lo que 
+VHUH¿HUHDQXHVWUDPHWRGRORJtD HOSXQWRGHYLVWDGH(ONLQJWRQ QRVKDOOHYDGR
+
+Para saltar con red 83
+a considerar necesario completar el proceso de evaluación de pr oyectos de 
+negocio con herramientas que contemplen explícitamente las cons ecuencias 
+sociales y medioambientales de los mismos.
+Resumiendo, A VIN es una metodología de evaluación de proyectos de 
+negocio ex ante  basada en la noción de la actividad empresarial como proceso 
+de creación de valor, enfoque que proporciona un criterio claro  para determinar 
+la conveniencia de su puesta en marcha; el mecanismo más adecua do para 
+ese tipo de evaluación consiste en el diseño de un modelo de ne gocio que 
+contemple todas las variables relevantes del proyecto, de forma  que sea un 
+UHÀHMR¿HOGHOIXWXURQHJRFLRSRUWDQWRGLFKRPRGHOR±HQFRQV RQDQFLDFRQ
+lo indicado por Magretta– debe facilitar la validación narrativ a del proyecto 
+(en el sentido de que aparente ser coherente y útil) y la valid ación numérica 
+(parecer viable y rentable), así como –recogiendo lo expresado por Elkington– 
+la validación ecosocial (manifestarse comprometido y responsabl e) para 
+representar un proyecto que, en caso de ser evaluado positivame nte, sea 
+factible e interese su implementación.
+/DWULSOHHYDOXDFLyQGHOPRGHORGHQHJRFLRHVHQGH¿QLWLYDOD SURSXHVWD
+~QLFDGHYDORUGHODPHWRGRORJtD$9,1FRPRVHUHSUHVHQWDHQOD ¿JXUD
+Figura 27. Propuesta Única de Valor de A VIN: evaluación tridime nsional simultánea.
+Fuente: elaboración propia.
+Expresado de otra forma, diremos que una idea sirve de base a u n pro-
+yecto de negocio sostenible en la medida que, a partir de esa i dea, podemos 
+diseñar un modelo de negocio sobre el que podemos validar tres hipótesis:
+Ɣ +LSyWHVLVGHYDORU6LJQL¿FDTXHHOS~EOLFRREMHWLYRLGHQWL¿F DGRHQ
+el modelo de negocio encontrará útil, valiosa, la propuesta de valor 
+formulada y, por lo tanto, estará dispuesto a pagar por ella.
+Ɣ +LSyWHVLVGHULTXH]D6LJQL¿FDTXHODHVWUXFWXUDHFRQyPLFR¿Q DQFLHUD
+diseñada para implementar el modelo de negocio será capaz de au to-
+sostenerse y crecer en el futuro.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 84
+Ɣ +LSyWHVLVGHUHVSRQVDELOLGDG6LJQL¿FDTXHHOPRGHORGHQHJRF LRHYD -
+luado implica, en su desarrollo y resultados, impactos positivo s o, al 
+menos, neutros en términos medioambientales y sociales.
+0ൾඍඈൽඈඅඈ඀ටൺ$9,1ඉඋඈർൾඌඈඌൽൾආඈൽൾඅൺൽඈ
+La metodología A VIN sustenta la necesidad de abordar el modelad o y la 
+evaluación a futuro de un proyecto de negocio sostenible median te la combi-
+nación de un conjunto de perspectivas diferentes, como única fo rma de lograr 
+alcanzar una visión completa y cabal de la situación problemáti ca en estudio.
+Una parábola clásica, la de los ciegos y el elefante, ilustra l os límites de 
+la percepción monofocal y la importancia de la pluralidad de pe rspectivas 
+sobre un mismo objeto de observación: un grupo de ciegos escuch ó que un 
+extraño animal, llamado elefante, había sido traído al pueblo, pero ninguno 
+conocía su forma. Decidieron inspeccionarlo recurriendo al sent ido del tacto. 
+El primero tocó su trompa y dijo: «este ser es como una serpien te gruesa»; 
+otro, que alcanzó la oreja, dijo que parecía un abanico; el ter cero tocó la pata 
+\GLMRTXHHUDXQSLODUFRPRHOWURQFRGHXQiUERO¿QDOPHQWH HO~OWLPRSXVR
+su mano en el costado y dijo que el elefante era una pared.
+Obviamente, ninguno de ellos fue capaz de describir cabalmente el objeto 
+examinado, puesto que lo examinaron de forma parcial. De modo s imilar, el 
+examen de algo complejo como un proyecto de negocio sostenible desde un 
+único punto de vista limita la comprensión del mismo y, por tan to, conduce 
+a conclusiones erróneas.
+El punto de partida de la metodología A VIN es que el estudio de  la facti-
+bilidad de un proyecto de negocio sostenible requiere del diseñ o de un modelo 
+de negocio. Los modelos de negocios sostenibles son, ante todo,  modelos, o 
+VHDVLPSOL¿FDFLRQHV~WLOHV\¿OWURVGHFXHVWLRQHVFRPSOHMDVGH ODUHDOLGDG
+HPSUHVDULDOTXHVLUYHQSDUDHQWHQGHUODFRPSDUWLUODDQDOL]DUOD \HQGH¿QLWL -
+YDJHVWLRQDUODHVXQDQDUUDWLYDTXHLQFOX\HGHVFULSFLyQFiOF XOR¿QDQFLHUR\
+¿MDFLyQGHREMHWLYRVVRFLDOHV\PHGLRDPELHQWDOHV'DGDHVWDFRP SOHMLGDG\
+variedad de aspectos a abordar, es necesario utilizar diversas perspectivas de 
+análisis y modelado para una comprensión cabal del objeto de es tudio.
+Dicha comprensión requiere un triple modelado del proyecto de n egocio 
+YpDVH¿JXUD
+Ɣ 'HVFULSWLYR5HODWLYRDOWHVWQDUUDWLYRSODQWHDGRSRU0DJUHWW DLPSOLFD
+un modelado en el que se expresen con claridad y lógica discurs iva los 
+FRPSRQHQWHVEiVLFRVGHOQHJRFLRYDORURIUHFLGRUHFXUVRV«DV tFRPR
+el contexto en que operará. Mediante el análisis y evaluación d e este tipo 
+de modelado podremos sacar conclusiones respecto a lo que podrí amos 
+llamar la «sostenibilidad conceptual» del proyecto de negocio.
+
+Para saltar con red 85
+Ɣ 3UHGLFWLYR5HÀHMRGHOWHVWQXPpULFRH[LJLGRSRU0DJUHWWDVX SRQH
+establecer hipótesis y conjeturas respecto al desempeño esperad o del 
+QHJRFLRHQWpUPLQRVHFRQyPLFR¿QDQFLHURV(VWHWLSRGHPRGHODGR 
+nos va a permitir concluir un análisis y evaluación bien fundam entada 
+respecto a lo que denominaremos la «sostenibilidad económica» d el 
+proyecto de negocio en estudio.
+Ɣ 3UHVFULSWLYR5HODFLRQDGRFRQHOFRQFHSWRGHWULSOHUHVXOWDGR GH(O -
+NLQJWRQDWDxHDODUHÀH[LyQFRQUHVSHFWRDORVLPSDFWRVVRFLDO HV\
+PHGLRDPELHQWDOHVHLPSOLFDXQHMHUFLFLRGH¿MDFLyQGHREMHWLYR VHFR -
+sociales a lograr para garantizar sostenibilidad en dicha persp ectiva. 
+En base a este tipo de modelado abordamos de manera sistemática  el 
+análisis y evaluación del proyecto de negocio desde el punto de  vista 
+de la «sostenibilidad medioambiental y social».
+Por supuesto, las tres dimensiones de la sostenibilidad referid as no son 
+independientes. La sostenibilidad económica tiene como requisit o la concep-
+WXDOHQHOVHQWLGRGHTXHXQQHJRFLRQRSXHGHORJUDUVHUDXWRV X¿FLHQWHHQ
+WpUPLQRV¿QDQFLHURVVLQRJHQHUD\HQWUHJDXQDSURSXHVWDGHYDO RUDSUHFLDGD
+como tal por el mercado; a su vez, la sostenibilidad ecosocial requiere de un 
+VyOLGRPRWRU¿QDQFLHURHQHOQHJRFLRFDSD]GHJHQHUDU\VRVWHQH UORVLPSDFWRV
+sociales y medioambientales positivos del proyecto de negocio.
+Figura 28. Enfoques de modelado de la metodología A VIN.
+Fuente: elaboración propia.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 86
+Por otra parte, cada modelado requiere lógicamente lenguajes y técnicas 
+de análisis diferente. Precisamente, una de las virtudes de la metodología 
+A VIN consiste en que no es una única herramienta, sino un conju nto hete-
+rogéneo y coordinado de ellas, una «caja de herramientas», de m anera que 
+faculta al usuario para abordar el tipo de problema para el que  está concebida, 
+el diseño y evaluación de modelos de negocio sostenibles, con l a necesaria 
+diversidad de métodos de análisis que dicha tarea requiere para  su exitoso 
+cumplimiento.
+Queremos así evitar incurrir en el autoengaño denunciado en la frase ya 
+citada de Abraham Maslow: «cuando la única herramienta que tien es es un 
+martillo, todos los problemas empiezan a parecerte clavos»; en el ámbito 
+de la gestión empresarial el «monocultivo» de herramientas de a nálisis para 
+afrontar problemas complejos como es el que nos ocupa es especi almente 
+improductivo porque se opone a la multidimensional naturaleza d e los pro-
+blemas sometidos a escrutinio, que exige aplicar una variedad d e enfoques y 
+técnicas al mismo tiempo.
+En los subapartados siguientes explicamos los tres tipos de mod elados y 
+las técnicas que los implementan.
+4.3.1. Modelado descriptivo
+/D¿QDOLGDGGHOPRGHODGRGHVFULSWLYRHVFRPR\DVHKDGLFKRG HWHUPLQDUVL
+podemos construir, a partir de la idea de negocio que examinamo s, un pro-
+yecto de negocio sostenible que resulte parecer coherente y úti l. Veamos con 
+un poco de detalle esta cuestión. La coherencia es una cualidad  de aquellos 
+conjuntos o sistemas cuyas partes o elementos están relacionado s lógicamen-
+te, de modo que no hay contradicción u oposición entre ellos. A plicado a 
+nuestro caso, un modelo de negocio sostenible coherente contará  con todos 
+los recursos, destrezas, habilidades y técnicas necesarias para  implementar 
+y desarrollar el proyecto; los componentes del modelo serán con secuentes 
+y estarán coordinados entre sí de modo que sea razonable supone r que su 
+interacción permitirá el funcionamiento esperado del negocio; y  el encaje del 
+negocio en su entorno próximo y general será posible.
+Por otra parte, la utilidad es la capacidad que pueden tener la s cosas para 
+VHUYLURVHUDSURYHFKDGDVSDUDXQ¿QGHWHUPLQDGR$QXHVWURVHI HFWRVVHWUDWD
+de que lleguemos a la convicción de que la propuesta de valor q ue planteamos 
+parece capaz de proporcionar utilidad de algún tipo a un segmen to de con-
+sumidores determinado, al tiempo que el tamaño de mercado const ituido por 
+HVRVSRWHQFLDOHVFRQVXPLGRUHVHVORVX¿FLHQWHPHQWHDPSOLR\WL HQHFDSDFLGDG
+DGTXLVLWLYDEDVWDQWHFRPRSDUDSURGXFLUXQÀXMRGHLQJUHVRVKD FLDHOQHJRFLR
+y como contraprestación al disfrute del producto o servicio.
+
+Para saltar con red 87
+En congruencia con estos propósitos hemos planteado un modelado  des-
+FULSWLYRHQIRFDGRDLGHQWL¿FDUORVHOHPHQWRVQHFHVDULRVSDUDFR QVWUXLUXQ
+sistema empresarial operativo para el proyecto en estudio, así como las con-
+diciones de su encaje actual y futuro en su entorno. Un diseño de este tipo nos 
+permitirá determinar la «sostenibilidad conceptual» del proyect o de negocio. 
+$HVWRVHIHFWRVLGHQWL¿FDPRVWUHVIDVHVHQHOPRGHODGRQDUUDWL YR¿JXUD
+Figura 29. Fases del modelado descriptivo.
+Fuente: elaboración propia.
+La primera fase en la construcción del relato consiste en elabo rar y estruc-
+WXUDUODLGHDGHQHJRFLRPHGLDQWHGRVKHUUDPLHQWDVHOOLHQ]RG HGH¿QLFLyQGH
+LGHD\HOOLHQ]RGHSURSXHVWDGHYDORU(OOLHQ]RGHGH¿QLFLyQ GHLGHDFRQVLVWH
+HQXQDSODQWLOODHQODTXHVHHVSHFL¿FDQORVSXQWRVFODYHTXHF RQVWLWX\HQOD
+explicación completa del negocio a diseñar, a modo de narración  breve. A 
+saber: cuál es el problema que se pretende resolver y cuán impo rtante es (con-
+texto); un resumen de cómo la propuesta de valor va a soluciona r el problema 
+(argumento); el resultado que el consumidor obtendrá como conse cuencia del 
+uso del producto o servicio (objetivo): el tipo de usuarios, di rectos e indirec-
+WRVTXHREWHQGUiQEHQH¿FLRVFDVRGHLPSOHPHQWDUODLGHDEHQH¿ FLDULRVHO
+valor a conseguir por los usuarios, cómo su vida, trabajo u otr as experiencias 
+VHYHUiQLPSDFWDGDVFXDQGRODLGHDVHDXQDUHDOLGDGEHQH¿FLR IRUPDVGH
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 88
+valor que repercutirán en los promotores del negocio (valor par a el negocio); 
+\¿QDOPHQWHFyPRVHPDWHULDOL]DUiODSURSXHVWDGHYDORUHQT XpIRUPDHV -
+SHFt¿FDVHSUHVHQWDUiSURGXFWR
+/DIDVHGHFODUL¿FDFLyQGHODLGHDGHQHJRFLRVHFRPSOHWDFRQH OOLHQ]RGH
+SURSXHVWDGHYDORU¿JXUD(VWDKHUUDPLHQWDSURSXHVWDSRU 2VWHUZDOGHU
+(Osterwalder, Pigneur, Bernarda & Smith, 2014), consiste igualm ente en una 
+plantilla estructurada con dos partes bien diferenciadas: a la derecha, un área 
+denominada SHU¿OGHOFOLHQWH  nos servirá para describir a los destinatarios de 
+ODSURSXHVWDGHYDORUPHGLDQWHODHVSHFL¿FDFLyQGHWUHVFXHVWL RQHVODSULPH -
+ra, debemos describir las expectativas del consumidor en términ os de cuál 
+es el WUDEDMR  que este está tratando de cumplimentar, en el sentido en que s e 
+GH¿QH©WUDEDMRª MRE) en la teoría MREWREHGRQH  de Christensen (Christensen, 
+&RRN	+DOO©GH¿QLPRVXQ©WUDEDMRªFRPRHOSURJUHVRTXH XQDSHU -
+sona intenta lograr en unas determinadas circunstancias»; despu és, debemos 
+pensar en las soluciones que actualmente utiliza ese consumidor  para hacer 
+HVHWUDEDMRDQWHVGHGLVSRQHUGHQXHVWUDSURSXHVWDHLGHQWL¿F DUIDFWRUHVGH
+esas soluciones que le generan molestias (mal servicio técnico,  por ejemplo), 
+a las que denominamos «frustraciones», y factores que no están presentes pero 
+que, de estarlo, mejorarían la experiencia de consumo; a ello l e denominamos 
+«ganancias».
+Figura 30. Lienzo de propuesta de valor.
+Fuente: Design Thinking España.
+En la izquierda del lienzo tenemos el área denominada «mapa de valor». 
+En la misma son también tres las cuestiones a dilucidar: la pri mera, una des-
+cripción de los productos y servicios que constituyen la propue sta de valor 
+
+
+Para saltar con red 89
+GHOQHJRFLRGHVSXpVHVSHFL¿FDUTXpIXQFLRQDOLGDGHVGHODSURS XHVWDGHYDORU
+van a proporcionar algunas de las ganancias esperadas por los c onsumidores 
+(generadores de ganancias), o van a resolver algunos de los inc onvenientes 
+actuales percibidos (eliminadores de frustraciones).
+El trabajo con este lienzo no solo ayuda a elaborar un relato c onsistente 
+del modelo de negocio, también supone un primer ejercicio de va loración de 
+la utilidad del proyecto de negocio. En efecto: si no somos cap aces de iden-
+WL¿FDUHQORVSURGXFWRVTXHDFWXDOPHQWHXWLOL]DHOFRQVXPLGRUD OJ~QLQFRQ -
+veniente a subsanar (frustración) o algún margen de mejora (gan ancia), ¿qué 
+sentido tiene que planteemos una nueva solución?, ¿qué podríamo s aportar, si 
+a lo actual no le vemos problemas o posible perfeccionamiento? Igualmente, 
+HVREYLRTXHVLQRVRPRVFDSDFHVGHLGHQWL¿FDUJHQHUDGRUHVGHJ DQDQFLDV\
+eliminadores de frustraciones entre las funcionalidades de la n ueva solución 
+es necesario un replanteamiento de la misma para que el modelo de negocio 
+como relato, utilizando la expresión de Magretta, «tenga sentid o».
+La segunda fase del modelado narrativo se enfoca a la descripci ón com-
+pleta del modelo de negocio. Para esta tarea hemos optado, en n uestra selec-
+ción de herramientas, por el lienzo de modelo de negocio [ Business Model 
+Canvas, BMC ] de Osterwalder y Pigneur (2010). La razón es simple: con el 
+tiempo, se ha convertido en un estándar de facto  en el mundo académico y 
+empresarial y es bien conocida su estructura y uso.
+Ya hicimos referencia al BMC en el capítulo 2 de este trabajo y , como 
+decimos, es una herramienta ampliamente conocida y utilizada. L as razones 
+para ello son varias: es una herramienta desarrollada sobre una  ontología 
+bien fundamentada (Osterwalder, Pigneur & Tucci, 2005), su dise ño sencillo 
+tiene sin embargo una potencia descriptiva importante, puesto q ue presenta, 
+a un único golpe de vista, una panorámica de los elementos sust anciales 
+GHOPRGHORGHQHJRFLR,QFOXVRODHVWUXFWXUDJUi¿FDGHOOLHQ]R IDFLOLWDOD
+visión del proceso de creación de valor, desde la cadena de sum inistro hasta 
+HOXVXDULR¿QDO
+El BMC, entonces, comprende 9 espacios (bloques de diseño, en l a termi-
+nología de sus autores) que son los siguientes:
+Ɣ 6HJPHQWRVGHFOLHQWHV5HTXLHUHLGHQWL¿FDUORVGLIHUHQWHVJUX SRVGH
+personas o entidades a los que se dirige la propuesta de valor.
+Ɣ 3URSXHVWDGHYDORU'HVFULSFLyQGHOFRQMXQWRGHSURGXFWRV\V HUYLFLRV
+que crean valor para un segmento de clientes.
+Ɣ &DQDOHVGHGLVWULEXFLyQ([SOLFDHOPRGRHQTXHVHDUWLFXODUi ODFR -
+nexión con los segmentos de mercado al objeto de llegar a ellos  y se 
+OHVSURSRUFLRQDUiODSURSXHVWDGHYDORU6RQHQGH¿QLWLYDSXQ WRVGH
+contacto entre empresa y clientes.
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 90
+Ɣ 5HODFLRQHVFRQORVFOLHQWHV'HQRWDODVGLIHUHQWHVHVWUDWHJLD VGHUHOD -
+ción con los consumidores al objeto de interactuar con ellos, c aptarlos 
+\¿GHOL]DUORV
+Ɣ )OXMRVGHLQJUHVRV5HTXLHUHLGHQWL¿FDUODVSRVLEOHVPRGDOLGD GHVPH -
+diante las que se planea, a cambio de los productos y servicios  entre-
+gados, obtener algún tipo de recompensa en forma de captura de valor 
+¿QDQFLHUR
+Ɣ 5HFXUVRVFODYH'HVFULSFLyQGHORVDFWLYRVPiVLPSRUWDQWHVSD UDHO
+funcionamiento del proyecto de negocio.
+Ɣ $FWLYLGDGHVFODYH$FWLYLGDGHVPiVLPSRUWDQWHVSDUDDVHJXUDU HOXVR
+óptimo de los recursos y la generación y distribución de la pro puesta 
+de valor.
+Ɣ 5HGGHFRODERUDGRUHV5HTXLHUHH[SOLFLWDUODUHGGHSURYHHGRU HV\
+asociados que hacen posible el fun cionamiento del modelo de neg ocio.
+Ɣ (VWUXFWXUDGHFRVWHV5HTXLHUHLGHQWL¿FDUORVFRQFHSWRVGHFR VWHPiV
+importantes en los que incurrirá el proyecto en su funcionamien to, así 
+FRPRVXQDWXUDOH]D¿MDRYDULDEOH
+Dado el carácter de herramienta estándar que ya hemos señalado,  conside-
+ramos el BMC como el instrumento adecuado para esta fase de la metodología 
+A VIN, si bien nos ha parecido necesario utilizar en la aplicaci ón informática 
+TXHODLPSOHPHQWDXQ%0&PRGL¿FDGRHQHOVHQWLGRGHDJUHJDUWU HVEORTXHV
+de diseño más: misión, visión y criterios de éxito, como podemo s ver en la 
+¿JXUDVLJXLHQWH¿JXUD
+Figura 31. Lienzo de modelo de negocio A VIN.
+Fuente: elaboración propia.
+
+
+Para saltar con red 91
++HPRVFRQVLGHUDGRQHFHVDULDHVWDPRGL¿FDFLyQHQFRQFRUGDQFLDFR QOR
+SODQWHDGRSRU8SZDUG\-RQHV8SZDUG	-RQHVD¿QGHTX HHOOLHQ]R
+GHVFULSWLYRGHOPRGHORGHQHJRFLRUHÀHMHKLSyWHVLV\H[SHFWDWLY DVUHODFLRQDGDV
+con la orientación estratégica del proyecto de negocio, así com o indicadores de 
+éxito. A tal efecto, la misión es una declaración del propósito  del negocio; la 
+YLVLyQHVXQDLPDJHQGHODVLWXDFLyQIXWXUDGHVHDGDGHOSUR\HFW R¿QDOPHQWH
+los criterios de éxito son metas a alcanzar que nos servirán de  referencia para 
+abordar la última etapa de la metodología, que es la evaluación  del proyecto, o 
+sea, del modelo de negocio diseñado. De esta forma, el modelo d e negocio será 
+la «descripción de la lógica por la que una organización existe: q ué hace, para 
+quién y con quién; qué hace ahora y en el futuro; cómo, dónde y  con quién lo 
+KDFH\FyPRGH¿QH\PLGHVXp[LWRª8SZDUG	-RQHV
+3DUDFRPSOHWDUHOPRGHODGRGHVFULSWLYR\XQDYH]TXHKHPRVD¿Q DGROD
+GH¿QLFLyQGHODLGHDHQODTXHVHEDVDHOSUR\HFWR\ORVHOHPHQ WRVGHOPRGHOR
+de negocio que pensamos que la harán posible, entendemos necesa rio contex-
+tualizarlo, es decir, ubicarlo en el «aquí y ahora» en el que, caso de optar por 
+ello, vamos a intentar implementarlo y desarrollarlo.
+Para ello, vamos a utilizar tres herramientas que nos permitirá n analizar 
+de modo fundamentado y sistemático ese contexto. En primer luga r, abordare-
+mos un análisis DAFO (FODA en la terminología latinoamericana).  El nom-
+bre de la herramienta consiste en un acrónimo de los términos d ebilidades, 
+amenazas, fortalezas, oportunidades.
+El análisis DAFO ( SWOT Analysis , en inglés) es una técnica desarrollada 
+en los años sesenta del siglo XX por varios autores, y se convirtió en uno de 
+ORVHOHPHQWRVKDELWXDOHVHQWRGRVORVHMHUFLFLRVGHSODQL¿FDFLy QHVWUDWpJLFD
+FRPRKHUUDPLHQWDTXHIDFLOLWDXQDGHODVHWDSDVGHGLFKDSODQL¿ FDFLyQODGH
+evaluación interna y externa o análisis situacional, que suele preceder a la 
+determinación de los objetivos. 
+Figura 32. Matriz DAFO.
+Fuente: Portal PYME. Ministerio de Industria, Comercio y Turism o, Gobierno de España.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 92
+El objetivo del análisis DAFO, entonces, es proceder de mañera organizada 
+DJHQHUDUXQDLPDJHQGHODVLWX DFLyQGHXQSUR\HFWRGHQHJRFLR LGHQWL¿FDQGR
+por una parte, sus puntos fuertes (alta capacitación técnica de l personal, por 
+HMHPSOR\GpELOHVFDUHQFLDGHFDSDFLGDG¿QDQFLHUDSRUHMHPSO RPLUDQGR
+hacia el interior, es decir, a las circunstancias internas del proyecto; por otra, 
+LGHQWL¿FDQGRIDFWRUHVRFLUFXQVWDQFLDVH[WHUQDVTXHSXHGHQFRQV WLWXLUDPH -
+nazas (situación económica general inestable, por ejemplo) u op ortunidades 
+(ausencia de competencia en el mercado objetivo, por ejemplo). Los factores 
+PiVGHVWDFDGRVGHFDGDXQDGHODVFXDWURFDWHJRUtDVGHVFULWDVV HUHÀHMDQHQ
+XQHVTXHPDFRPRHOGHOD¿JXUDGHQRPLQDGD©PDWUL]'$)2ª
+La ponderación de la importancia de cada categoría para el dese mpeño 
+del proyecto de negocio nos indicará las expectativas de éxito para el mismo, 
+así como el tipo de sendero estratégico (defensivo, ofensivo, a daptativo o de 
+supervivencia) que mejor puede convenir. Al implementar esta he rramienta 
+en la aplicación informática A VIN h emos optado, como veremos de spués, por 
+una versión cuantitativa basada en ponderaciones y valoraciones  de factores.
+La segunda herramienta que vamos a utilizar en esta fase de con textua-
+lización del proyecto de negocio es un generador de escenarios.  Contemplar 
+la posibilidad de que un proyecto se puede enfrentar en el futu ro a diferentes 
+contextos nos parece una característica que debe estar presente  en toda meto-
+GRORJtDGHHYDOXDFLyQGHSUR\HFWRV5RWWHUGDP3DtVHV%DMRVF X\RVLJQL¿ -
+cado en holandés es algo así como «presa podrida», designa, sin  embargo, al 
+PD\RUSXHUWRGH(XURSD\VHJXQGRRWHUFHURGHOPXQGRFRQXQD VXSHU¿FLH
+de 12.713 hectáreas y más de 470 millones de toneladas de merca ncías de 
+todo tipo gestionadas en él. En todo caso, no tenemos especial interés aquí 
+en la industria portuaria; lo que nos ha llamado la atención es  el lema de este 
+macronegocio: «esperamos lo mejor, y nos preparamos para lo peo r»3.
+(VWHHQIRTXHTXHVLJQL¿FDSOXUDOLGDGGHYLVLRQHVGHIXWXURHV HOTXH
+hemos querido incorporar a nuestra metodología de análisis y ev aluación de 
+proyectos de negocio; por ello, la herramienta de generación de  escenarios 
+del módulo narrativo, por una parte, y el ajuste de previsiones  en función de 
+los escenarios en el módulo numérico, por otra, son elementos e senciales de 
+A VIN (metodología y aplicación).
+La idea es que el usuario de la metodología y el software  que la imple-
+menta asuma desde el primer momento que, utilizando A VIN, no es tá descri-
+biendo algo que ya existe, sino lo que cree que será un proyect o que aún no 
+KDLQLFLDGRVXFLFORGHYLGD(QGH¿QLWLYDGHEHDVXPLUTXHHO IXWXURSXHGHVHU
+diferente –mejor o peor– de lo que hoy pensamos, y ello no solo  es convenien-
+WHHVREOLJDGR\DTXH©>OD@SODQL¿FDFLyQGHHVFHQDULRVHVXQ SURFHVR>TXH
+3 El País , 25/03/2019, p. 43.
+
+Para saltar con red 93
+consiste en] plantear futuros alternativos diversos más o menos  probables en 
+los que se plantean decisiones respecto al porvenir, con el pro pósito de cam-
+ELDUODIRUPDDFWXDOGHSHQVDUPHMRUDUODWRPDGHGHFLVLRQHV LQWHQVL¿FDUHO
+aprendizaje humano y organizativo e incrementar el rendimiento»  (Chermark, 
+Lynham & Ruona, 2001).
+El diseño del modelo de negocio con el método A VIN presenta ent onces, 
+y en nuestra opinión, dos ventajas con respecto a otras posible s metodologías: 
+por una parte, y como ya hemos explicado antes, la que deriva d e hacer un 
+PRGHODGRWULSOHLQWHQWDQGRH[SOLFLWDUHQHOPRGHOR¿QDOODHVW UXFWXUDGHVXV
+componentes y la disposición de los mismos a los efectos de mat erializar el 
+SUR\HFWR\MXVWL¿FDUVXQHFHVLGDGPRGHORQDUUDWLYRMXQWRFRQ XQDQiOLVLV
+DIXWXURGHOFRPSRUWDPLHQWR¿QDQFLHURDOREMHWRGHYDOLGDUODY LDELOLGDG\
+rentabilidad del proyecto (modelo numérico) y describiendo una visión de los 
+impactos sociales y medioambientales del proyecto (modelo ecoso cial); por 
+otra, que abordamos ahora la obligada consideración, requerida por la lógica 
+de uso de la aplicación, de escenarios futuros alternativos en los que mostrar 
+la capacidad de adaptación del modelo a circunstancias diferent es.
+Modestamente, intentamos emular la actitud de la que hacía band era John 
+Maynard Keynes: «Cuando las circunstancias cambian, yo cambio d e opinión, 
+¿usted qué hace?». 
+(QORTXHVHUH¿HUHDODKHUUDPLHQWDGHDQiOLVLVGHHVFHQDULRV GHOPRGH -
+lado descriptivo, se trata de una técnica de diseño propio aunq ue inspirada 
+en un artículo de Haaker (Haaker, Bouwman, Janssen & de Reuver,  2017) 
+y consiste en elaborar un análisis PESTEL (político, económico,  social, tec-
+QROyJLFRHFROyJLFR\OHJDOPHGLDQWHHOTXHLGHQWL¿FDPRVSDUD FDGDXQDGH
+las categorías de la técnica un factor de riesgo de alto impact o en el proyecto 
+de negocio y dos expectativas (una positiva y otra negativa) de l estado de 
+dicho factor de riesgo en el futuro. En base a dichas expectati vas, y a esti-
+PDFLRQHVGHSUREDELOLGDGGHVXFHVRGHXQDXRWUDHQHOIXWXUR FRQ¿JXUDPRV
+WUHVHVFHQDULRVIXWXURVDOWHUQDWLYRVGH¿QLGRVSRUODFRQÀXHQFL DGHWRGDVODV
+expectativas positivas (escenario optimista), de todas las expe ctativas nega-
+tivas (escenario pesimista) y de las expectativas consideradas más probables 
+(escenario probable).
+$FRQWLQXDFLyQUHÀH[LRQDPRVVREUHHOLPSDFWRTXHFDGDXQDGHO DVH[ -
+pectativas pensamos que tendría sobre cada uno de los bloques d e diseño del 
+OLHQ]RGHPRGHORGHQHJRFLRUHÀHMDQGRGLFKRLPSDFWRPHGLDQWHX QFyGLJR
+de colores. El resultado de esta actividad es un «mapa de calor » global como 
+HOTXHYHPRVHQOD¿JXUDVLJXLHQWH¿JXUD
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 94
+Figura 33. Mapa de calor.
+Fuente: captura de pantalla de aplicación A VIN 7.2.
+En el mapa, el color verde indica que, caso de materializarse l a expectativa 
+FRUUHVSRQGLHQWHDOD¿ODHOHIHFWRVREUHHOEORTXHGHGLVHxRV HUiSRVLWLYRHVWR
+es, el modelo de negocio a ese respecto funcionará sin problema s; si el color es 
+anaranjado indica que podría haber problemas y quizá fuera conv eniente ajustar 
+HOFRQWHQLGRGHHVHEORTXHGHGLVHxRHOFRORUURMRVHxDODHQ ¿QTXHVLVHSUR -
+duce esa circunstancia será necesario un replanteamiento del mo delo de negocio 
+de cara a la supervivencia del proyecto. El color gris indicarí a que la expectativa 
+en cuestión no parece tener efectos apreciables sobre el bloque  de diseño.
+Finalmente, podemos extraer del mapa de calor global mapas parc iales 
+SRUHVFHQDULRVGHPRGRTXHSRGHPRVFRQ¿JXUDUPRGHORVGHQHJRFL RDOWHUQD -
+WLYRVFRQFRQ¿JXUDFLRQHVGHHOHPHQWRVGLIHUHQWHVVHJ~QSRVLEO HVHVFHQDULRV
+Para cerrar esta fase de contextualización es conveniente proce der a un 
+análisis competitivo. A tal efecto, hemos optado por diseñar un  instrumento 
+de análisis en base a dos herramientas de la «estrategia océano  azul» (Kim & 
+Mauborgne, 2005) (Kim & Mauborgne, 2007), en concreto las denom inadas 
+«matriz ERIC» y «mapa de valor».
+Figura 34. Matriz ERIC y mapa de valor.
+Fuente: captura de pantalla de aplicación A VIN 7.2.
+
+
+Para saltar con red 95
+Nuestra herramienta de análisis competitivo requiere en primera  instan-
+FLDLGHQWL¿FDUORVSULQFLSDOHVFRPSHWLGRUHVHQHOPHUFDGRDOTX HHOSUR\HFWR
+GHQHJRFLRVHHQIUHQWDUi$FRQWLQXDFLyQGH¿QLUORVSULQFLSDOH VIDFWRUHVGH
+competencia que pensamos son relevantes en dicho mercado (preci o, sitio 
+ZHESXEOLFLGDGSRUHMHPSOR\¿QDOPHQWHDVLJQDUXQDYDORUDFLy QDFDGD
+competidor, incluyendo nuestro proyecto, para cada uno de los f actores iden-
+WL¿FDGRVHQXQDHVFDODGHD$SDUWLUGHDTXtSRGHPRVJHQ HUDUXQJUi¿FR
+comparativo de todas las valoraciones (mapa de valor) que nos i ndicará el 
+grado de semejanza en la posición estratégica de los distintos competidores. 
+(YLGHQWHPHQWHFRQYLHQHDTXtUHÀH[LRQDUKDVWDTXpSXQWRHVSRVL EOHGLIH -
+renciar el proyecto de negocio en estudio del comportamiento de l resto de la 
+competencia y, por lo tanto, apuntar hacia un «océano azul».
+3RURWUDSDUWHODPDWUL](5,&¿JXUDDODL]TXLHUGDHVXQ DSODQWL -
+OODSDUDHVWUXFWXUDUODUHÀH[LyQHQWRUQRDIDFWRUHVVREUHORV TXHDFWXDUGH
+cara a establecer una diferenciación respecto de la competencia  de un modo 
+equilibrado, sin adoptar una posición en la que los costes haga n inviable el 
+proyecto. La idea es que el incremento o la creación de factore s competitivos 
+que agregan valor, en la medida que suponga aumento de costes, tiene que ir 
+acompañado de reducción o eliminación de otros factores general mente pre-
+sentes en todas las ofertas, pero de poco o nulo impacto en el valor percibido 
+por el consumidor.
+4.3.2. Modelado predictivo
+Con el modelado descriptivo tratamos de plasmar un relato de la  lógica del 
+proyecto de negocio que nos convenza de la utilidad de su propu esta de valor 
+SDUDXQPHUFDGRGHWHUPLQDGR\GHODVX¿FLHQFLDGHORVHOHPHQWR VTXHSHQ -
+samos incorporar para desarrollarlo. Pero en el mundo de los ne gocios es de 
+la máxima importancia atender al mensaje de la conocida expresi ón latina: 
+primum vivere, deinde philosophare SULPHURYLYLUGHVSXpV¿ORVRIDUDSOL -
+FDGDDQXHVWURFDVRVLJQL¿FDTXHHOPRGHORFDUHFHGHVHQWLGRV LQRVRPRV
+capaces de dilucidar su capacidad de supervivencia diseñando un a estructura 
+¿QDQFLHUDWDOTXHODRSHUDWLYDGHOSUR\HFWRLPSOLTXHODJHQHUDF LyQGHXQD
+UHQWDQHWDSRVLWLYD\VX¿FLHQWH3DUDHOORDIURQWDUHPRVXQVHJ XQGRPRGHODGR
+GHQDWXUDOH]DQXPpULFD¿QDQFLHUD
+El modelado predictivo está enfocado a vaticinar el comportamie nto del 
+SUR\HFWRGHQHJRFLRHQHVWXGLRHQHOiPELWRHFRQyPLFR¿QDQFLHUR PHGLDQWH
+el uso de técnicas de simulación y proyección, y en base a hipó tesis y con-
+jeturas respecto a las variables que determinan el resultado em presarial en 
+dicho ámbito.
+El objetivo de este modelado es determinar si el proyecto de ne gocio pare-
+ce viable y rentable. Un proyecto aparenta ser viable si, por s us circunstancias, 
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 96
+tiene probabilidades de ser llevado a cabo; en este contexto, l a viabilidad 
+VLJQL¿FDTXHODVKLSyWHVLVUHODWLYDVDODVHQWUDGDV\VDOLGDVG HÀXMRGHHIHF -
+tivo del negocio indican, según los modelos empleados, que disp ondremos 
+HQWRGRPRPHQWRGHOQXPHUDULRVX¿FLHQWHSDUDVRVWHQHU¿QDQFLHUD PHQWHODV
+actividades previstas, adquirir los recursos necesarios, etc. P or otra parte, un 
+SUR\HFWRVHGH¿QHFRPRUHQWDEOHVLSURGXFHUHQWDVX¿FLHQWHRUH PXQHUDGRUD
+más en concreto, si las expectativas de generación de renta net a del negocio 
+satisfacen los criterios de éxito establecidos para determinar que el esfuerzo 
+SRUDSRUWDUODLQYHUVLyQQHFHVDULDSDUDHOGHVDUUROORGHOSUR\H FWRHVWiVX¿FLHQ -
+WHPHQWHMXVWL¿FDGR
+Un modelo de simulación es una representación matemática de una  reali-
+GDGHFRQyPLFDHQQXHVWURFDVRHOPRWRU¿QDQFLHURGHXQQHJRFL RHQODTXH
+VHVLPSOL¿FDODFRPSOHMLGDGGHODPLVPDGHVWDFDQGRODVYDULDEOH VPiVUHOH -
+vantes y sus interconexiones, de cara a simular el comportamien to de dicha 
+UHDOLGDG\VXVFRQVHFXHQFLDV6X¿ORVRItDGHWUDEDMRFRQVLVWH HQODREWHQFLyQ
+de unos determinados resultados (informes de gestión) en base a  unas entradas 
+(hipótesis sobre las variables económicas) y unas relaciones ma temáticas entre 
+las mismas (estructura del modelo). Las razones para utilizar e sta técnica son 
+claras: posibilidad de analizar múltiples alternativas en modo semiautomático 
+PRGL¿FDUHOYDORUGHXQDYDULDEOHSRUHMHPSORUDSLGH]HQOD REWHQFLyQGH
+UHVXOWDGRV¿DELOLGDGGHORVPLVPRVFiOFXORDXWRPDWL]DGR\OD FRQVLGHUDFLyQ
+exhaustiva y consistente de las variables clave y sus relacione s. 
+El modelado predictivo lo vamos a abordar en tres fases, de mod o que al 
+¿QDOGHODVPLVPDVVHUHPRVFDSDFHVGHGHWHUPLQDUVLFDVRGHFX PSOLUVHQXHV -
+tras hipótesis relativas al desempeño del proyecto, es predecib le que resulte 
+VHUYLDEOH\UHQWDEOH¿JXUD
+Figura 35. Fases del modelado predictivo.
+Fuente: elaboración propia.
+
+
+Para saltar con red 97
+En el caso del modelado predictivo las tres fases están fuertem ente aco-
+pladas en la medida que las salidas de las fases uno y dos son a su vez las 
+HQWUDGDVGHODVIDVHVFRQVHFXHQWHVFRPRSRGHPRVYHUHQOD¿JXU DVLJXLHQWH
+¿JXUD
+Figura 36. Fases del modelado predictivo. Acoplamiento de las f ases.
+Fuente: elaboración propia.
+/DSULPHUDIDVH¿JXUDFRQVLVWHHQXQDVLPXODFLyQGHWDOODGD GHOFRP -
+SRUWDPLHQWR¿QDQFLHURGHOSUR\HFWRHQHOIXWXURLQPHGLDWR\UHT XLHUHHVWDEOH -
+cer hipótesis a corto plazo sobre un conjunto de variables inte rnas y externas, 
+DVtFRPRVREUHDOJXQDVSROtWLFDVUHODWLYDVDODJHVWLyQGHÀXMR V¿QDQFLHURV
+A saber:
+Ɣ /tQHDVGHQHJRFLRTXHVHGHVDUUROODUiQHQIXQFLyQGHODH[LV WHQFLDGH
+diferentes estructuras de costes variables en el conjunto de la  propuesta 
+de valor.
+Ɣ 9ROXPHQGHLQJUHVRVPHQVXDOSRUOtQHDGHQHJRFLRƔ 3ROtWLFDVGHSURGXFFLyQ\FRQVXPRƔ &RVWHGHYHQWDV\RWURVFRVWHVYDULDEOHVSRUOtQHDGHQHJRFLR 
+Ɣ &RVWHV¿MRVPHQVXDOHVƔ ,QYHUVLRQHVSUHYLVWDVƔ &RVWHGHOFUpGLWREDQFDULRƔ 5HPXQHUDFLyQGHORVH[FHGHQWHVGHWHVRUHUtDƔ 7LSRGHLPSXHVWRDORVEHQH¿FLRVHPSUHVDULDOHV
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 98
+Ɣ %DODQFHLQLFLDO
+Ɣ &RQGLFLRQHV¿QDQFLHUDVGHHVFHQDULRVDOWHUQDWLYRVƔ 3ROtWLFDVGHFREUR\SDJR
+Una vez introducida esta información opera el componente de pro cesa-
+miento de datos de esta fase de modelado, que es una herramient a de cálculo 
+programada para generar a partir de dichas entradas un conjunto  de informes 
+de gestión. La estructura, fórmu las, tablas, secuencia de cálcu los y demás ele-
+mentos de la herramienta han sido diseñados y programados por l os autores de 
+HVWHWUDEDMRHQEDVHDSODQWLOODVHLGHDVGHGLYHUVRVPDQXDOHV GHSODQL¿FDFLyQ
+¿QDQFLHUD7LMD(QFRQFUHWRREWHQGUHPRVORVVLJXLHQWHV UHVXOWDGRV
+Ɣ 3ODQGHLQJUHVRV\UHVXOWDGRVSRUOtQHDVGHQHJRFLR
+Ɣ (VWDGRV¿QDQFLHURVSUHYLVLRQDOHVEDODQFHGHVLWXDFLyQ\FXHQ WDGH
+resultados) a corto plazo.
+Ɣ ,QIRUPHGHSRVLFLyQGHWHVRUHUtDƔ 3XQWRVFUtWLFRV\DQiOLVLVGHVHQVLELOLGDGGHHVFHQDULRV
+Los datos de estos informes se constituyen en el input  de información de 
+la segunda fase del modelado predictivo:
+Figura 37. Primera fase del modelado predictivo. Simulación a c orto plazo.
+Fuente: elaboración propia.
+El análisis de los resultados de la simulación a corto plazo no s va a permitir 
+HYDOXDUGHXQDPDQHUDLQIRUPDGDODVH[SHFWDWLYDVGHYLDELOLGDG ¿QDQFLHUDGHO
+SUR\HFWRGHQHJRFLR(VSHFt¿FDPHQWHODSRVLFLyQGHWHVRUHUtDQ RVLQGLFDUi
+GHIRUPDQXPpULFD\JUi¿FDODVQHFHVLGDGHVDFXPXODGDVGH¿QDQF LDFLyQTXH
+se generarán en los primeros ejercicios de actividad del negoci o. En el caso de 
+TXHGLFKRLQIRUPHQRVLQGLTXHTXHORVÀXMRVQHWRVGHWHVRUHUtD GHULYDGRVGHOD
+
+
+Para saltar con red 99
+actividad del negocio serán positivos a lo largo del periodo es tudiado (habrá 
+excedente de dinero) se puede concluir que el proyecto es viabl e a corto plazo; 
+si, por el contrario, en algún punto temporal aparece una neces idad acumulada 
+GH¿QDQFLDFLyQSRVLWLYDIDOWDGHGLQHURKDEUiTXHGLOXFLGDU VLHVSRVLEOH
+\FyPRFXEULUHVHGp¿FLWSDUDFRQWLQXDUFRQHOIXQFLRQDPLHQWR GHOQHJRFLR
+/DVHJXQGDIDVHGHOPRGHODGRSUHGLFWLYR¿JXUDDERUGDHOOD UJRSOD]R
+La referencia temporal estándar que utilizamos para acotar este  periodo es de 
+cinco años, si bien, y como veremos al explicar la aplicación A VIN, el número 
+de años a considerar puede ser cualquiera. Para elaborar esta p arte del modelo 
+hemos optado por una técnica de predicción más simple: la proye cción de las 
+YDULDEOHVEiVLFDVDSDUWLUGHVXYDORUHQHOHMHUFLFLR¿QDOVLP XODGRDFRUWRSOD]R
+Los datos de entrada necesarios para alimentar la herramienta d e cálculo 
+en esta fase son, por lo tanto, mucho más limitados. En concret o, necesitamos:
+Ɣ (VWLPDFLyQGHYDULDFLyQDQXDOGHORVLQJUHVRVWRWDOHV
+Ɣ (VWLPDFLyQDQXDOGHORVFRVWHVYDULDEOHVFRPRSRUFHQWDMHGHL QJUHVRV
+Ɣ (VWLPDFLyQGHYDULDFLyQDQXDOGHORVFRVWHV¿MRVƔ (VWLPDFLyQDQXDOGHOWLSRGHLPSXHVWRVREUHEHQH¿FLRVHPSUHVD ULDOHV
+Ɣ (VWLPDFLyQDQXDOGHOFRVWHGHOFUpGLWREDQFDULR
+A partir de estas hipótesis, la herramienta de cálculo nos va a  generar un 
+conjunto de informes:
+Ɣ (VWDGRV¿QDQFLHURVDODUJRSOD]REDODQFHGHVLWXDFLyQFXHQW DGHUH -
+sultados y estado de origen y aplicación de fondos.
+Ɣ ,QIRUPHGHYDORUDFLyQGHOQHJRFLRƔ ,QIRUPHGHUDWLRV\DQiOLVLVGHVHQVLELOLGDGGHHVFHQDULRV
+Figura 38. Segunda fase del modelado predictivo. Proyección a l argo plazo.
+Fuente: elaboración propia.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 100
+El resultado de esta fase nos va a permitir evaluar, en base a los datos 
+generados por la herramienta de cálculo, las expectativas de re ntabilidad del 
+proyecto y, por tanto, determinar si desde el punto de vista ec onómico inte-
+resa o no su puesta en marcha. En síntesis, si parece gozar de «sostenibilidad 
+económica».
+El primer informe clave de esta fase es el de valoración del ne gocio, en 
+el que podremos constatar, para una tasa de rentabilidad requer ida, cuál es el 
+Payback  del proyecto, su valor actual neto y la tasa interna de rendim iento, 
+HQWUHRWUDVWpFQLFDVWRGDVHOODVEDVDGDVHQÀXMRVGHFDMDGHVF RQWDGRVDPSOLD -
+mente reconocidas.
+Finalmente, el modelado predictivo queda completado mediante la  elabo-
+UDFLyQGHXQVHJXQGRLQIRUPHFODYHHOSODQ¿QDQFLHURFRQVLVWH QWHHQGHWHU -
+minar, para el caso de que la consecuencia de la proyección de la actividad a 
+largo plazo hayan sido excedentes de tesorería, el destino los mismos; para el 
+FDVRGHTXHODSUR\HFFLyQLPSOLTXHIDOWDGHUHFXUVRV¿QDQFLHURV HVSHFL¿FDU
+VXIXHQWHGHSURFHGHQFLD¿JXUD
+)LJXUD7HUFHUDIDVHGHOPRGHODGRSUHGLFWLYR3ODQ¿QDQFLHUR 
+Fuente: elaboración propia.
+$WDO¿QSDUWLPRVGHODLQIRUPDFLyQTXHSURSRUFLRQDHOHVWDGR GHRULJHQ
+y aplicación de fondos generado en la segunda fase del modelado . En este 
+LQIRUPHVHSRQHGHPDQL¿HVWRVLHQFDGDXQRGHORVHMHUFLFLRVS UR\HFWDGRVKD\
+VXSHUiYLWRGp¿FLWGH¿QDQFLDFL yQFRPRUHVXOWDGRGHODDFWLYLGD GGHOQHJRFLR
+la tercera fase, entonces, consiste en decidir, ejercicio a eje rcicio (de ahí que 
+hablemos de un procesamiento semiautomático de la información),  qué hacer 
+FRQORVH[FHGHQWHVRFyPRFXEULUORVGp¿FLWV8QDYH]FXPSOLPHQ WDGDHVWD
+fase tendremos el modelado predictivo completado.
+4.3.3. Modelado prescriptivo
+El modelado prescriptivo, o modelado ecosocial, está orientado a esta-
+blecer, en los ámbitos social y medioambiental, objetivos y met as de esa 
+QDWXUDOH]DDVtFRPRLGHQWL¿FDUHVWUDWHJLDVSDUDORJUDUORV\FR PXQLFDUORV
+adecuadamente.
+
+
+Para saltar con red 101
+Con el modelado ecosocial tratamos de asegurarnos de que estamo s di-
+señando un proyecto de negocio comprometido y responsable. Un n egocio 
+FRPSURPHWLGRVHGH¿QHFRPRDTXHOTXHHVFRQVFLHQWHGHODLPSRUW DQFLDGH
+FXPSOLUFRQVXVWDUHDVDSOLFDQGRGHWHUPLQDGRVYDORUHVpWLFRV( QGH¿QLWLYD
+VLJQL¿FDDVXPLUFRPRJXtDGHFRPSRUWDPLHQWRGHVDUUROODU\PDQWH QHUXQDDF -
+titud ética y respetuosa, en vistas a que el funcionamiento del  negocio resulte 
+socialmente positivo y medioambientalmente respetuoso. Por otra  parte, un 
+negocio es responsable en la medida que su modelo de negocio es  consecuen-
+te con la obligación de individuos y entidades de contribuir a una sociedad 
+más feliz y justa. A esos efectos, es requisito necesario que l a composición y 
+la dinámica del modelo de negocio favorezca y promueva un compo rtamiento 
+ético tendente a la prosperidad del capital humano, la cohesión  del capital 
+social y la protección del capital natural.
+El enfoque más congruente con los propósitos de esta parte de l a metodo-
+logía es el prescriptivo, porque entendemos que aquí no se trat a de referir los 
+elementos de los que vamos a disponer para la implementación de l proyecto 
+(modelado descriptivo) o de cuál va a ser el comportamiento del  negocio caso 
+de cumplirse determinadas expectativas (modelado predictivo), s ino que se 
+trata de establecer unos objetivos a alcanzar que representan u n futuro desea-
+ble en el ámbito ecosocial, y plantearnos cómo actuar (y cómo n o hacerlo) 
+para alcanzarlos. Es, pues, un enfoque claramente normativo (qu é queremos 
+que ocurra) y, en este sentido, nos parece que la técnica que m ejor puede 
+inspirar el modelado ecosocial es la de backcasting  o retrospección (Quist, 
+2007).
+Backcasting  es una técnica de indagación en el futuro en cierto modo 
+inversa a la predicción o previsión, en cuanto que, al contrari o de estas, no 
+implica partir de la situación actual para indagar a dónde lleg aremos sino 
+que, por el contrario, partimos de una visión de futuro deseada  para estable-
+cer los compromisos necesarios (estrategias y políticas) para a lcanzar dicha 
+visión: « Backcasting  no solo trata de cómo poder alcanzar futuros desea-
+bles, también de cómo evitar o eludir futuros no deseados» (Qui st, 2007). 
+En la medida que la sostenibilidad es un concepto sobre todo no rmativo, 
+nos parece totalmente coherente el uso de un enfoque normativo como es 
+el de backcasting . 
+(QHOHVTXHPDVLJXLHQWH¿JXUDVHUHSUHVHQWDQJUi¿FDPHQWHO DVIDVHV
+del modelado prescriptivo, en consonancia con el enfoque elegid o:
+ 
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 102
+Figura 40. Fases del modelado prescriptivo.
+Fuente: elaboración propia.
+/DSULPHUDIDVHHVLGHQWL¿FDWLYDGHODVSDUWHVLQWHUQDV\H[WH UQDVLPSOL -
+cadas en el proyecto, en función de los resultados e impactos d erivados del 
+funcionamiento del proyecto de negocio. Para esta tarea nos apo yamos en una 
+herramienta de detección de impactos basada en la guía %U~MXODGHORV2'6  
+(SDG Compass, 2015), un documento generado por la Iniciativa de  Reporte 
+Global (GRI, por sus siglas en inglés), el Pacto Global de las Naciones Unidas 
+y el Consejo Empresarial Mundial para el Desarrollo Sostenible (WBCSD, 
+por sus siglas en inglés). En dicha guía se plantea el mapeo de  la cadena de 
+YDORUSDUDLGHQWL¿FDUODViUHDVGHLPSDFWRHFRVRFLDOGHORVQHJ RFLRV&RPEL -
+namos este mapeo con otro basado en los ejes de responsabilidad  social (go-
+bernanza, planeta, personas y comunidad), al objeto de encuadra r los impactos 
+WDPELpQGHQWURGHHVWDFODVL¿FDFLyQDVtFRPRGHWHFWDUDOJXQRQ RHYLGHQFLDGR
+en el anterior mapeo.
+Se completa esta fase con otras dos tareas: por una parte, con la identi-
+¿FDFLyQ\GHVFULSFLyQGHORVJUXSRVLQWHUHVDGRV> stakeholders ] del proyecto, 
+haciendo referencia a sus expectativas respecto del proyecto, a sí como a la 
+forma en que cada grupo puede afectar al éxito del negocio; por  otra, con la 
+selección de los ODS (objetivos de desarrollo sostenible) sobre  los que puede 
+tener, o queremos que tenga, algún efecto el proyecto de negoci o.
+
+
+Para saltar con red 103
+La segunda fase corresponde a lo que podemos denominar la elabo ración 
+de un plan o visión de sostenibilidad, pues se trata de analiza r los impactos 
+detectados en la fase anterior y establecer objetivos respecto a la naturaleza y, 
+en su caso, magnitud de esos imp actos de cara a la sostenibilid ad del proyecto 
+de negocio. Ello supone, como decimos, crear objetivos, vincula r indicadores 
+SDUDPHGLUORV\GH¿QLUPHWDVDORJUDU
+Finalmente, la tercera fase consiste en estructurar toda la inf ormación 
+generada en las dos fases anteriores en un conjunto de informes  apropiados 
+tanto para la toma de decisiones interna como la comunicación y  difusión 
+hacia el exterior.
+0ൾඍඈൽඈඅඈ඀ටൺ$9,1ൾඏൺඅඎൺർංඬඇൽൾඅආඈൽൾඅඈ
+De acuerdo con el Spanish Oxford Dictionary , evaluar es «atribuir o deter-
+minar el valor de algo o de alguien, teniendo en cuenta diverso s elementos 
+o juicios». La evaluación (la acción de evaluar) es una etapa c lave en el 
+proceso de diseño de un modelo de negocio, toda vez que «los mo delos de 
+negocio están hechos de decisiones concretas y de las consecuen cias de esas 
+decisiones» (Casadesus-Masanell & Ricart, 2011). La aplicación de criterios 
+\KHUUDPLHQWDVGHHYDOXDFLyQHVHQGH¿QLWLYDORTXHQRVSHUPL WLUiFRQFOXLU
+VLXQDGHWHUPLQDGDFRQ¿JXUDFLyQGHOPRGHORHVVDWLVIDFWRULDRU HTXLHUHXQD
+reformulación. Evidentemente, la calidad del diseño del modelo de negocio 
+está determinada por la de los criterios y herramientas que uti licemos.
+Desde nuestro punto de vista, la evaluación de un proyecto de n egocio 
+es compleja dado el grado de imprecisión (en un sentido positiv ista) que el 
+UHVXOWDGRQHFHVDULDPHQWHWLHQH7RGDGH¿QLFLyQGHp[LWRHVQRUP DWLYDHV
+decir, ningún proyecto de negocio es «bueno» o «malo» de modo i nequívoco 
+\DEVROXWRWRGRVORVSUR\HFWRVLPSOLFDQFRVWHV\EHQH¿FLRV\ RWUDVFRQVH -
+FXHQFLDVPHQRVFXDQWL¿FDEOHV\HO~QLFRFULWHULRGHDFHSWDFLyQ TXHSRGHPRV
+manejar es la estimación del propio analista del proyecto de lo  que constituye 
+un resultado exitoso. 
+Con respecto a la evaluación, destacaremos dos trabajos de revi sión de las 
+aportaciones académicas sobre el tema. El primero de ellos (Tes ch & Brillin-
+JHUHVWDEOHFHXQDFODVL¿FDFLyQGHODVKHUUDPLHQWDV\PHW RGRORJtDVGH
+evaluación encontradas en esa revisión (sobre un universo selec cionado de 57 
+trabajos) en base a un doble criterio, según la lógica del proc eso de toma de 
+decisiones que las fundamenta: por una parte, encontramos una d iferenciación 
+entre razonamiento causal y efectual; por otra, entre evaluació n cualitativa y 
+cuantitativa.
+La primera dicotomía se basa en la distinción establecida por S arasvathy 
+(Sarasvathy, 2001) entre el tipo de razonamiento clásico del di rectivo de 
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 104
+empresa que, a partir de predicciones de futuro, establece obje tivos y trata 
+GHDOFDQ]DUORVGHODIRUPDPiVH¿FLHQWHOyJLFDFDXVDO\HOU D]RQDPLHQWR
+que atribuye al emprendedor, para el que el grado de incertidum bre sobre el 
+futuro hace inútil (o imposible) intentar preverlo, por lo que sus decisiones no 
+VHRULHQWDQDXQREMHWLYRSUH¿MDGRVLQRTXHYDQVXUJLHQGRGHX QSURFHVRGH
+experimentación y aprendizaje. Esta sería la lógica efectual, p redicada como 
+FDUDFWHUtVWLFDGHOD¿ORVRItD Lean Startup  (Blank, 2005, Ries, 2011).
+Por otra parte, la segunda dicotomía distingue entre herramient as cualita-
+tivas y cuantitativas. Entre las herramientas cualitativas que Tesh y Brillenger 
+reportan tenemos los análisis DAFO y PESTEL, dentro de la categ oría de 
+razonamiento causal, y el Canvas de Osterwalder (Osterwalder & Pigneur, 
+RODPRGL¿FDFLyQGHOPLVPRGH$VK0DXU\D0DXU\D HO/HDQ
+Canvas, como idóneas en el razonamiento efectual. Lógicamente, no se iden-
+WL¿FDQKHUUDPLHQWDVFXDQWLWDWLYDVHQHVWDFDWHJRUtDHQWDQWRT XHHQODGHO
+razonamiento causal se incluyen la simulación y previsión de me rcados, las 
+HQFXHVWDVDFRQVXPLGRUHV\SRUVXSXHVWRHODQiOLVLV¿QDQFLHUR )LQDOPHQWH
+VHLGHQWL¿FDXQDFDWHJRUtDLQWHUPHGLDPH]FODGHHQIRTXHFXDOLW DWLYR\FXDQWL -
+tativo) en la que se insertarían, en una lógica efectual, el mé todo del producto 
+mínimo viable (Ries, 2011) y en lógica causal, el análisis de e scenarios o el 
+Balanced Scorecard .
+El segundo de los trabajos (Schoormann, Kaufhold, Behrens & 
+Knackstedt, 2018) es también una revisión de la literatura acad émica, si 
+bien en este caso el foco del análisis está constituido por la evaluación 
+de los modelos de negocio orientados a la sostenibilidad. Aquí la materia 
+prima que produce los resultados del estudio consiste en una se lección 
+de 50 artículos, sobre la que los autores construyen una tipolo gía con 10 
+categorías de enfoques de evaluación. De estas, tan solo cuatro  de ellas 
+incluyen herramientas que contemplan la evaluación en la triple  dimensión 
+de la sostenibilidad: la evaluación mediante comparación, evalu ación 
+mediante cuestionarios, evaluación con herramientas de análisis  estratégico 
+y evaluación de la propuesta de valor.
+Por otra parte, y desde el ámbito profesional (no académico) es  necesa-
+rio mencionar una metodología de evaluación de proyectos de neg ocio en la 
+perspectiva de la sostenibilidad, que es el true value  de la consultora KPMG, 
+una de las «cuatro grandes» junto a PwC, Deloitte y Ernst & You ng. La me-
+todología consiste en un proceso de tres etapas; en la primera de ellas se trata 
+GHLGHQWL¿FDUHOYDORUTXHXQDFRPSDxtDFUHD\GHVWUX\HSDUDOD VRFLHGDG
+como consecuencia de las externalidades positivas y negativas q ue genera. A 
+tal efecto, KPMG (KPMG, 2014) utiliza un marco de referencia de  externali-
+GDGHVLPSRUWDQWHVFODVL¿FDGDVHQHFRQyPLFDVVRFLDOHV\PHGLRDP ELHQWDOHV\
+SRVLWLYDV\QHJDWLYDV\ODVH[SUHVDHQWpUPLQRV¿QDQFLHURVVHJ ~QVXVSURSLDV
+
+Para saltar con red 105
+técnicas. Con esta información, se construye lo que denominan u n puente de 
+ganancias verdaderas [ true earnings bridge @TXHFRPELQDORVEHQH¿FLRV¿QDQ -
+cieros con el valor monetizado de sus externalidades, generando  una imagen 
+del impacto real de la empresa.
+Figura 41. Puente de ganancias de una cervecera en India.
+Fuente: KPMG, 2014.
+Mediante el esquema se puede constatar dónde la compañía está c reando 
+o destruyendo valor para la sociedad y dónde, en consecuencia, debiera desa-
+UUROODULQLFLDWLYDVSDUDPHMRUDUORVYHUGDGHURVEHQH¿FLRV¿JXU D
+La segunda etapa consiste en entender cómo las externalidades p odrían 
+ser internalizadas en el futuro, y cuál sería la consecuencia d e ello en los 
+resultados de la empresa, de acuerdo con el escenario más proba ble. Por 
+¿QODWHUFHUDHWDSDVHHQIRFDDHYDOXDUSRVLEOHVQXHYRVSUR\HF WRVFRQVLGH -
+rando el impacto social y medioambiental que puedan generar, ad emás del 
+¿QDQFLHUR
+En nuestro caso, como veremos en detalle en el capítulo siguien te, he-
+mos optado por crear tres plantillas de estructura similar, per o ajustadas a las 
+características de cada uno de los modelados, que adoptan la fo rma de test 
+de autoevaluación para calibrar, utilizando una escala Likert, la calidad del 
+modelo de negocio diseñado.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 106
+5ൾൿൾඋൾඇർංൺඌ
+%අൺඇ඄ , S. (2005). The Four steps to the Epiphany: Successful Strategies for 
+Products that Win . K&S Ranch Press.
+%ඈඎඅൽංඇ඀ , K. (1966). The economics of the coming spaceship earth. En H.  E. 
+Daly, Environmental Quality Issues in a Growing Economy  (págs. 3-14). 
+Baltimore, Maryland, USA: Johns Hopkins University Press.
+%ඎඇ඀ൾ , M. (2002). &ULVLV\UHFRQVWUXFFLyQGHOD¿ORVRItD  Gedisa.
+&ൺඌൺൽൾඌඎඌ0ൺඌൺඇൾඅඅ5๟5ංർൺඋඍ-( (2010). From strategy to business 
+models and onto tactics. Long Range Planning, 43 (2), 195-215.
+&ඁൾඋආൺඋ඄7-/ඒඇඁൺආ6$๟5ඎඈඇൺ:( 2001). A Review of scenario 
+planning literature. Long Range Plannning, 17 (2), 7-31.
+&ඁඋංඌඍൾඇඌൾඇ&0&ඈඈ඄6๟+ൺඅඅ7 (2006). What Customers Want 
+from Yours Products.  HBS. Obtenido de https://hbswk.hbs.edu/item/what-
+customers-want-from-your-products
+&ඈඅඈආංඇൺ(๟<ගඪൾඓ/ (2014). Herramientas para el Análisis y Validación 
+de Ideas de Negocio. Revista Global de Negocios, 2 (4), 105-123.
+&ඈඅඈආංඇൺ(๟<ගඪൾඓ/  (2017). Evaluación de modelos de negocio asistida 
+por computador. En I. García-Medina, & V . Tur-Viñes, Diálogos bilaterales 
+entre investigadores de la Glasgow Caledonian University (Reino Unido) y la Universidad de Alicante (España). Estudios interdisciplinares  (págs. 
+97-112). Alicante: Colección Mundo Digital de la Revista Medite rránea 
+de Comunicación.
+(අ඄ංඇ඀ඍඈඇ , J. (1997). Cannibals with Forks: The Triple Botton Line of 21st 
+Century Business.  Oxford: Capstone Publishing, Ltd.
++ൺൺ඄ൾඋ7%ඈඎඐආൺඇ+-ൺඇඌඌൾඇ:๟ൽൾ5ൾඎඏൾඋ0  (2017). Business 
+Model stress testing: A practical approach to test the robustne ss of a 
+business model. Futures, 89 , 14-25.
+IIRC. (2021). El Marco Internacional . Obtenido de https://www.
+integratedreporting.org/
+.ංආ:&๟0ൺඎൻඈඋ඀ඇൾ5 (2005). Blue Ocean Strategy: How to Create 
+Uncontested Market Space and Make the Competition Irrelevant.  Boston: 
+Harvard Business School Press.
+.ංආ: & ๟ 0ൺඎൻඈඋ඀ඇൾ 5 (2007). Blue Ocean Strategy. Leadership 
+Excellence, 9 , 20-21.
+KPMG. (2014). A New Vision of Value: Connecting corporate and societal value 
+creation.  Obtenido de https://home.kpmg/xx/en/home/insights/2014/09/a-
+new-vision-connecting-corporate.html
+0ൺ඀උൾඍඍൺ , J. (2002). Why business models matter. Harvard Business Review, 
+80(5), 86-93.
+0ൺඎඋඒൺ , A. (2012). Running lean: iterate from plan A to a plan that Works.  
+O’Reilly Media, Inc.
+
+Para saltar con red 107
+2ඌඍൾඋඐൺඅൽൾඋ $ ๟ 3ං඀ඇൾඎඋ < (2010). Business model generation: a 
+handbook for visionaries, game changers and chalengers.  (V ol. 1). John 
+Wiley & Sons.
+2ඌඍൾඋඐൺඅൽൾඋ$3ං඀ඇൾඎඋ<๟7ඎർർං&/ (2005). Clarifying business 
+models: Origins, present and futur of the concept. Communications of the 
+Association for Information Systems, 16 (1), 125.
+2ඌඍൾඋඐൺඅൽൾඋ$3ං඀ඇൾඎඋ<%ൾඋඇൺඋൽൺ*๟6ආංඍඁ$ (2014). Value 
+Proposition Design: How to Create Products and Services Customers Want.  John Wiley & Sons.
+4ඎංඌඍ- (2007). Backcasting for a Sustainable Future: The Impact After 10 
+Years.  Universidad Tecnológica de Delft, Países Bajos.
+5ංൾඌ(  (2011). The Lean Startup: How today’ s entrepreneurs use continous 
+innovation to create radically successful businesses . Random House 
+Digital, Inc.
+6ൺඋൺඌඏൺඍඁඒ6&DXVDWLRQDQG(൵HFWXDWLRQ7RZDUGVD7KH RUHWLFDO
+Shift from Economic Inevitavility to Entrepreneurial Contingenc y. 
+Academy of Management Review, 26 (2), 243-263.
+6ർඁඈඈඋආൺඇඇ7.ൺඎൿඁඈඅൽ$%ൾඁඋൾඇඌ'๟.ඇൺർ඄ඌඍൾൽඍ5 (2018). 
+Towards a typology of approaches for sustainability-oriented bu siness 
+model evaluation. En International Conference on Business Information 
+Systems  (págs. 58-70). Cham: Springer.
+SDG &ඈආඉൺඌඌ . (2015). SDG Compass: The Guide for Business Action on the 
+SDGs. SDG Compass.  Obtenido de https://sdgcompass.org/
+7ൾඌർඁ-๟%උංඅඅංඇ඀ൾඋ$  (2017). The evaluation aspect of digital business 
+model innovation: a literature review on tools and methodologies.  25th 
+European Conference on Information Systems (ECIS), Guimarães, Portugal.
+7ංඃൺ - 6 (2009). Building Financial Models: The Complete Guide to 
+'HVLJQLQJ %XLOGLQJ DQG $SSO\LQJ 3URMHFWLRQ 0RGHOV . McGraw-Hill 
+Education-Europe.
+8ඉඐ ൺඋൽ$๟-ඈඇൾඌ3 + (2016). An ontology for strongly sustainable 
+EXVLQHVV PRGHOV 'H¿QLQJ DQ HQWHUSULVH IUDPHZRUN FRPSDWLEOH ZLW K
+natural and social science. Organization & Environment, Special Issue: 
+Business Models for Sustainability: Entrepreneurship, Innovation, and Transformation, 29 (1), 97-123.
+
+
+
+CAPITULO 5
+APLICACIÓN A VIN: SOFTWARE PARA ANÁLISIS Y 
+EV ALUACIÓN DE PROYECTOS DE NEGOCIO
+,ඇඍඋඈൽඎർർංඬඇ
+El factor diferencial de la metodología A VIN, al que ya hemos h echo referen-
+cia en este trabajo, con respecto a la mayoría de propuestas de  procedimiento 
+para el apoyo a la toma de decisiones en la selección de proyec tos de negocio 
+consiste en que, en nuestro caso, la metodología ha sido implem entada en una 
+aplicación informática que facilita considerablemente su uso po r parte de las 
+personas interesadas.
+En efecto, y como ya señalábamos en el capítulo 3, «el uso de h erramien-
+tas software para el modelado aumenta considerablemente la cali dad de los 
+modelos generados» (Recker, 2012), dado que proporcionan una gu ía estruc-
+turada para la aplicación de la metodología; facilitan la agreg ación, uso, alma-
+cenamiento y recuperación de la información; estandarizan y aut omatizan ta-
+reas rutinarias y de cálculo, y, sobre todo, dotan de consisten cia los procesos.
+La aplicación A VIN 7.2 que se describe a continuación es la ver sión más 
+reciente (actualizada a lo largo de 2021) que hemos desarrollad o para imple-
+mentar en software  la metodología A VIN. De una versión anterior (A VIN 4.2) 
+ya dimos noticia en un anterior trabajo (Colomina & Yáñez, 2017 ). En este 
+capítulo explicamos las características generales de la aplicac ión informática 
+A VIN 7.2 (en adelante, A VIN), los módulos que contiene y su ope rativa. Para 
+facilitar una explicación visual, a lo largo de este capítulo p resentaremos una 
+serie de capturas de pantalla de la aplicación en la que veremo s el modelado 
+de un caso de ejemplo que hemos creado para facilitar la compre nsión del 
+método. El proyecto presentado se denomina «El burrito vacilón» , y la idea 
+de negocio que se desarrolla es la de una fábrica de cerveza ar tesana4.
+4 Más detalles en el Manual de usuario de la aplicación A VIN qu e se publicará próximamen-
+te.
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 110
+$9,19ංඌංඬඇ඀ൾඇൾඋൺඅ
+A VIN es una aplicación informática desarrollada en entorno de p rogramación 
+ACCESS de Microsoft. Funciona en modo local, mediante la descar ga del 
+archivo del programa en el equipo del usuario, y es operativo e n los entor-
+nos de sistema operativo Windows, sin requerimientos especiales . Se trata 
+de un programa modular que facilita y guía al usuario en la apl icación de 
+las herramientas necesarias para los trabajos de modelado reque ridos por la 
+metodología A VIN.
+El requisito para el comienzo de su utilización es el arranque del programa 
+TXHGHDFFHVRDODSDQWDOODLQLFLDO¿JXUD
+Figura 42. Pantalla de inicio A VIN.
+Fuente: Software A VIN.
+Con el botón INICIO5 se accede a la pantalla de administración de pro-
+yectos, en la que se procede al registro del nombre de la idea sobre la que 
+VHYDDWUDEDMDUSDUDVXPRGHODGRHVSHFL¿FDQGRXQRVSDUiPHWURV EiVLFRVGHO
+mismo, necesarios para el procesamiento posterior: mes y año en  que se prevé 
+el arranque de operaciones, y número de años a estudiar a corto  y largo plazo 
+¿JXUD
+ 
+5  BOTON  Los botones de la aplicación se representan con esta tipografí a en el capítulo.
+
+
+Para saltar con red 111
+Figura 43. Panel de acceso/creación de proyecto.
+Fuente: Software A VIN.
+Desde esta pantalla, y con el proyecto a elaborar seleccionado,  accedemos 
+al menú general de la aplicación mediante el botón IR AL PROYECTO :
+Figura 44. Panel de selección de modelo.
+Fuente: Software A VIN.
+&RPRSRGHPRVREVHUYDUHQODSDQWDOODDFFHGLGD¿JXUDVRQF XDWUR
+los módulos que conforman y organizan la aplicación. Los tres p rimeros con-
+tienen la versión software  de las herramientas descritas en el capítulo 4 para 
+cada uno de los tres tipos de modelado planteados en la metodol ogía A VIN; 
+el cuarto módulo, denominado «validación e informes» proporcion a ayuda al 
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 112
+usuario para elaborar conclusiones a partir del trabajo realiza do en los mó-
+dulos anteriores, y para recopilar y estructurar en documentos imprimibles y 
+exportables la información relativa a todo el proceso de anális is y evaluación. 
+A partir de aquí vamos a revisar el contenido de cada módulo, e xplicando las 
+funcionalidades que implementa y visualizando las pantallas con  las que se 
+interactúa para su utilización.
+0ඈൽൾඅඈඇൺඋඋൺඍංඏඈ
+(OPyGXORQDUUDWLYRHVXQFRQMXQWRHVWUXFWXUDGRGHKHUUDPLHQWDV JUi¿FDV
+RULHQWDGRDODRUJDQL]DFLyQGHLGHDV\FRQFHSWRVFX\D¿QDOLGDG HVJXLDUDO
+usuario de la aplicación en el proceso de generar un modelo des criptivo del 
+proyecto de negocio en estudio, incluyendo sus componentes inte rnos básicos 
+y su conexión con el entorno.
+Para ello, agrupamos dichas herramientas en tres subconjuntos: en el pri-
+mero, herramientas para idear , se trata de facilitar la formalización de la idea 
+GHQHJRFLRTXHPRWLYDHOSUR\HFWRFHQWUiQGRQRVHQODLGHQWL¿FD FLyQFODUDGH
+la propuesta de valor que implica y el segmento de consumidores  al que se di-
+rige; en el segundo, herramientas para describir , el objetivo es la descripción 
+del resto de elementos necesarios en un modelo de negocio (infr aestructura, 
+PHFDQLVPR¿QDQFLHURHWFHOWHUFHUR herramientas para evaluar , aporta 
+técnicas de análisis de adecuación del modelo de negocio a las características 
+y condiciones de su entorno. 
+(QOD¿JXUDYHPRVHOPHQ~JHQHUDOGHOPyGXORQDUUDWLYRDOT XHKHPRV
+llegado desde el menú general mediante el botón  MODELO NARRATIVO :
+Figura 45. Panel Modelo NARRATIVO.
+Fuente: Software A VIN.
+
+
+Para saltar con red 113
+A través de esta pantalla vamos a poder acceder a las diferente s herramien-
+tas que nos facilitan la descripción exhaustiva del modelo de n egocio desde el 
+punto de vista narrativo, esto es, los elementos que creemos ne cesarios para 
+su funcionamiento, el entorno en el que se plantea su implement ación y las 
+expectativas de congruencia conceptual de nuestro modelo con di cho entorno. 
+Para ello, empezamos por trabajar con el primer subconjunto del  módulo, 
+«herramientas para idear», lo cual nos servirá, como hemos dich o, para una 
+formalización básica de la oportunidad de negocio percibida. Di gamos que 
+esta es una primera fase del modelado narrativo, que completare mos con otras 
+dos, orientadas a describir y evaluar el modelo en términos con ceptuales.
+5.3.1 Herramientas para idear
+/DSULPHUDHVHO©OLHQ]RGHGH¿QLFLyQGHLGHDªPHGLDQWHHOTXH QRVDVHJX -
+ramos de elaborar una descripción básica del concepto de negoci o a modelar 
+VLQRPLWLUQLQJ~QH[WUHPRLPSRUWDQWH¿JXUD
+)LJXUD/LHQ]RGHGH¿QLFLyQGHLGHD)RUPXODULR
+Fuente: Software A VIN.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 114
+Como vemos, a la izquierda de la pantalla el usuario describe l os parámetros 
+que dan forma a la idea, y a la derecha contamos con una ayuda que describe el 
+VLJQL¿FDGRGHFDGDSDUiPHWUR8QDYH]FRPSOHWDGDHVWDSDQWDOOD HOSURJUDPD
+genera un resumen en una plantilla tipo elevator pitch  a la que accedemos me-
+diante el botón  informeGHODSDUWHVXSHULRUGHODSDQWDOOD¿JXUD
+)LJXUD/LHQ]RGHGH¿QLFLyQGHLGHD,QIRUPH
+Fuente: Software A VIN.
+Completamos la formalización de la idea utilizando la herramien ta «lienzo 
+GHSURSXHVWDGHYDORUªSDUDD¿QDUODGH¿QLFLyQGHODRIHUWDDO FRQVXPLGRU\
+FRQWUDVWDUHOJUDGRGHHQFDMHHQWUHHVWD\ODVGHPDQGDVGHOFOL HQWH¿JXUD
+Figura 48. Lienzo propuesta de valor.
+Fuente: Software A VIN.
+
+
+Para saltar con red 115
+5.3.2. Herramientas para describir
+Cumplimentada la fase anterior (idear), pasamos a la descripció n completa del 
+SUR\HFWRFRQHO©OLHQ]RGHPRGHORGHQHJRFLRª¿JXUD
+Figura 49. Lienzo de modelo de negocio.
+Fuente: Software A VIN.
+Llegados a este punto, y para completar la descripción, recomen damos re-
+ÀH[LRQDUVREUHODVOtQHDVGHQHJRFLRTXHFRQYLHQHGLIHUHQFLDUH QHOSUR\HFWR
+UHÀHMiQGRODVHQODVLJXLHQWHKHUUDPLHQWDTXHHVXQDSODQWLOOD TXHVHUYLUiGHHQ -
+WUDGDSDUDHOVLJXLHQWHPyGXORHOGHHODERUDFLyQGHOPRGHORQX PpULFR¿JXUD
+Figura 50. Panel Líneas de negocio.
+Fuente: Software A VIN.
+5.3.3. Herramientas para evaluar
+El modelado descriptivo se completa con las herramientas selecc ionadas para 
+contextualizar el proyecto y analizar la congruencia con su ent orno. La primera 
+de ellas es un análisis DAFO (también denominado FODA o SWOT) p onde-
+rado, en el que empezaremos por seleccionar los factores intern os y externos 
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 116
+que nos parecen relevantes para describir la situación de nuest ro proyecto de 
+QHJRFLR¿JXUD3DUDKDFHUPiVIiFLOODLGHQWL¿FDFLyQGHHV WRVIDFWRUHVOD
+aplicación ofrece una plantilla estructurada por bloques de dis eño del lienzo de 
+PRGHORGHQHJRFLRDVtFRPRXQDVHULHGHIDFWRUHVLGHQWL¿FDGRV SRUGHIHFWR
+Figura 51. DAFO. Selección de factores.
+Fuente: Software A VIN.
+'HVSXpVVHGHEHSURFHGHUDODSRQGHUDFLyQGHORVIDFWRUHVLGHQ WL¿FDGRV
+¿JXUD(VWRVLJQL¿FDRWRUJDUDFDGDXQRGHHOORVXQDHVWLP DFLyQGHVX
+importancia relativa sobre el conjunto, mediante la asignación de un porcen-
+taje sobre el total del 100 % del total de los factores selecci onados y ponde-
+UDGRV(OSDVRVLJXLHQWHHVODYDORUDFLyQGHORVIDFWRUHV¿JXU DHVGHFLU
+Figura 52. DAFO. Ponderación de factores.
+Fuente: Software A VIN.
+
+Para saltar con red 117
+la determinación, en primer lugar, de si se estima que su impac to es positivo 
+o negativo (o sea, si por ejemplo un factor interno se valora c omo positivo  
+±OXHJRHVXQDIRUWDOH]D±RFRPRQHJDWLYR±VHLGHQWL¿FDFRPRDPH QD]D±\HQ
+VHJXQGROXJDUGHODLQWHQVLGDGGHHVHLPSDFWRPHGLDQWHXQDFX DQWL¿FDFLyQ
+del mismo entre 0 y 10.
+Figura 53. DAFO: Valoración de factores.
+Fuente: Software A VIN.
+(OSDVRVLJXLHQWHHVODJHQHUDFLyQGHODPDWUL]'$)2¿JXUD SUHVHQ -
+WDQGRHQFRQMXQWRORVIDFWRUHVLGHQWL¿FDGRVVHJ~QVXFDWHJRUtD DFRPSDxDGRV
+GHXQJUi¿FRGHSRVLFLRQDPLHQWRHVWUDWpJLFRHODERUDGRDSDUWLU GHODVFXDQWL¿ -
+caciones adjudicadas, que proporciona una visión intuitiva de c ómo vemos la 
+situación del proyecto de negocio. Por último, podemos acceder a una matriz 
+72:6HQODTXHSODQWHDUSRVLEOHVHVWUDWHJLDVDVHJXLU¿JXUD 
+Figura 54. Matriz DAFO.
+Fuente; Software A VIN.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 118
+Figura 55. Matriz TOWS.
+Fuente: Software A VIN.
+La siguiente tarea de contextualización consiste en la generaci ón de esce-
+narios. Como ya se ha descrito en el capítulo 4, empezamos por un análisis 
+3(67(/FRQLGHQWL¿FDFLyQGHOTXHFRQVLGHUDPRVSULQFLSDOIDFWRU GHULHVJR
+futuro de cada una de las perspectivas de esta técnica, así com o de una dupla 
+de expectativas por cada factor, para parametrizar tres escenar ios alternativos, 
+TXHVHUiQORVFOiVLFRVSUREDEOHRSWLPLVWD\SHVLPLVWD¿JXUD $FRQWLQXD -
+ción, analizamos los impactos de cada una de las expectativas d eterminadas 
+sobre cada uno de los bloques de diseño del lienzo de modelo de  negocio, 
+representando dichos impactos mediante un código de colores en clave de 
+VHPiIRURSDUDIDFLOLWDUVXHQWHQGLPLHQWR¿JXUD(OORQRV SHUPLWHJHQHUDU
+¿QDOPHQWHXQPDSDGHFDORU¿JXUDTXHQRVYDDLQGLFDUGHP RGRLQWXLWLYR
+los elementos que requieren nuestra atención de modo prioritari o, y nos va a 
+permitir también visualizar las expectativas de futuro, en cada  escenario, del 
+SUR\HFWRGHQHJRFLR¿JXUD9HDPRVODVHFXHQFLDGHFDSWXUDV GHSDQWDOOD
+al respecto:
+)LJXUD(6&(1$5,26,GHQWL¿FDFLyQGHIDFWRUHVGHULHVJR
+Fuente: Software A VIN.
+
+
+Para saltar con red 119
+Figura 57. ESCENARIOS. Valoración de impactos.
+Fuente: Software A VIN.
+Figura 58. ESCENARIOS. Mapa de calor.
+Fuente: Software A VIN.
+Figura 59. Mapa de calor para el escenario probable.
+Fuente: Software A VIN.
+Para cerrar el modelado descriptivo accedemos a la herramienta «aná-
+OLVLVFRPSHWLWLYRª(QHOODHQSULPHUOXJDULGHQWL¿FDUHPRVOR VSULQFLSDOHV
+competidores en el mercado, y seleccionaremos al tiempo el conj unto de 
+factores que vamos a utilizar para hacer una comparativa entre ellos y con las 
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 120
+Figura 60. Análisis de competidores. Selección y factores de co mpetencia.
+Fuente: Software A VIN.
+Figura 61. ANÁLISIS COMPETIDORES. Valoración.
+Fuente: Software A VIN.
+Figura 62. ANÁLISIS COMPETIDORES. Mapa de valor.
+Fuente: Software A VIN.
+
+Para saltar con red 121
+Figura 63. ANÁLISIS COMPETIDORES. Matriz ERIC.
+Fuente: Software A VIN.
+H[SHFWDWLYDVTXHWHQHPRVGHQXHVWURSUR\HFWR¿JXUD(OSDV RVLJXLHQWH
+es la valoración de cada uno de esos factores para los competid ores y para el 
+SUR\HFWRHQHVWXGLR¿JXUD7UDVHVDYDORUDFLyQHVWDPRVHQ FRQGLFLRQHV
+GHJHQHUDUXQ©PDSDGHYDORUª¿JXUDTXHUHSUHVHQWDJUi¿FDP HQWHHOSR -
+sicionamiento de los distintos competidores en contraposición a l del proyecto 
+modelado. Para ayudar a pensar en mejoras de este posicionamien to se facilita 
+XQDSODQWLOODGHPDWUL](5,&¿JXUDFRPRKHUUDPLHQWDGHUHÀ H[LyQVREUH
+posibles acciones que pueden ayudar a una estrategia de diferen ciación. A 
+continuación, las capturas de pantalla correspondientes:
+0ඈൽൾඅඈඇඎආඣඋංർඈ
+El módulo numérico es un modelo de simulación que proyecta a fu turo hi-
+SyWHVLVGHGHVHPSHxR\GHFLVLRQHVHFRQyPLFDV\¿QDQFLHUDVUHODW LYDVDOSUR -
+yecto de negocio, generando de modo semiautomático informes est ructurados 
+TXHUHÀHMDQVXVFRQVHFXHQFLDVFDVRGHTXHVHFXPSOLHUDQ\VHD SOLFDVHQ
+respectivamente.
+Por tanto, se trata de una herramienta que da respuestas instan táneas 
+a preguntas del tipo «¿qué pasa si …?»  >ZKDWLI«"@ . Su funcionamiento 
+requiere de la introducción de hipótesis (por ejemplo, ingresos  esperados el 
+año próximo) y decisiones (por ejemplo, política de cobros), y el módulo, 
+XQDYH]DFWXDOL]DGRGHYXHOYHODVFRQVHFXHQFLDVHFRQyPLFR¿QDQF LHUDVGH
+tales inputs . La automatización del cálculo necesario para la obtención de 
+resultados hace muy sencillo el uso interactivo del módulo, de forma que 
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 122
+SRGHPRVLUDMXVWDQGRORVLQSXWVHQVXFHVLYRVFLFORVGHFiOFXOR KDVWDLGHQWL¿FDU
+un modelo cuyos resultados son satisfactorios.
+En resumen, el módulo numérico es la herramienta que permite va lidar 
+la idea de negocio, y el proyecto que la materializará, desde e l punto de 
+YLVWDHFRQyPLFR¿QDQFLHURODVRVWHQLELOLGDGHFRQyPLFDHQGH¿Q LWLYD(VWR
+VLJQL¿FDGHWHUPLQDUVLHOSUR\HFWRGHQHJRFLRGLVSRQGUiRSRGU iGLVSRQHU
+GHORVUHFXUVRV¿QDQFLHURVTXHSUHFLVH\FXDQGRORVQHFHVLWHH VYLDEOH\VL
+JHQHUDODVX¿FLHQWHULTXH]DFRPRSDUDFRPSHQVDUORVULHVJRVDD VXPLUSDUD
+su desarrollo (es rentable).  
+Figura 64. Acceso al modelo numérico.
+Fuente: Software A VIN.
+El módulo numérico se ofrece en el menú principal de A VIN con d os 
+modalidades de arranque, EDITAR  y VER¿JXUD/DPRGDOLGDG VER  
+no permite la introducción de datos, y está prevista exclusivam ente para 
+visualizar el proyecto una vez ha sido elaborado. La virtud de este tipo de 
+acceso a la herramienta de modelado reside en que la navegación  entre las 
+SDQWDOODVHVÀXLGD\UiSLGDGDGRTXHODPiTXLQDGHFiOFXORDO HVWDUHOSUR -
+yecto cerrado, no ha de hacer ningún tipo de operación en las t ransiciones 
+de una pantalla a otra. Por tanto, la opción a seleccionar para  empezar a 
+trabajar en el modelado numérico es la de EDITAR ; una vez pulsado este 
+botón accedemos al menú principal del módulo numérico, que es e l siguien-
+WH¿JXUD
+
+
+Para saltar con red 123
+Figura 65. Panel Modelo NUMÉRICO (opción EDITAR).
+Fuente: Software A VIN.
+&RPRYHPRVVHGH¿QHQGRViUHDVFRUWR\ODUJRSOD]R\HQFDGD XQDGH
+ellas dos columnas de opciones: una, la de la izquierda, para a cceso a pan-
+tallas de entrada de datos y otras, a la derecha, para visualiz ación de resulta-
+dos del procesamiento de los datos. La secuencia a seguir para trabajar este 
+modelado es la siguiente: empezar por el corto plazo, introduci endo datos en 
+las pantallas ordenadas de arriba abajo; a continuación, proced er de la misma 
+forma con el largo plazo.
+5.4.1. Modelo numérico a corto plazo
+El modelo numérico a corto plazo se estructura en dos columnas de botones 
+que dan acceso a las diferentes pantallas o formularios del mod elo. La colum-
+na de la izquierda se destina a los formularios de entrada de d atos y la de la 
+GHUHFKDLGHQWL¿FDGDFRPR©UHVXOWDGRVªFRQWLHQHORVERWRQHVTXH GDQDFFHVR
+a los formularios que muestran los resultados (consecuencias) q ue se derivan 
+de los datos introducidos. Desarrollando, por tanto, un modelo de simulación 
+que nos proyecta las consecuencias de las previsiones.
+5.4.1.1. Entrada de datos a corto plazo (previsiones)
+La información sobre el punto de partida del proyecto y las acc iones económi-
+FDV\¿QDQFLHUDVSUHYLVWDVSUHYLVLRQHVVHLQFRUSRUDQHQHOPR GHORPHGLDQWH
+varias pantallas de entrada de datos (formularios). 
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 124
+El proceso de entrada de datos se ha dividido en varios formula rios 
+para facilitar la búsqueda y la introducción de información. Se  recomien-
+da iniciar por el formulario al que se accede desde el «botón» superior 
+ LÍNEAS DE NEGOCIO  y continuar descendiendo por los botones de la 
+columna de entrada de datos.
+La primera pantalla de introducción de datos es la de líneas de  negocio. 
+Esta información ya ha sido elaborada durante el trabajo con el  modelado 
+narrativo, si bien tenemos la opción de revisar las líneas a co nsiderar. La 
+siguiente pantalla, PREV . ECONÓMICAS  requiere introducir las hipótesis 
+EiVLFDVGHODVLPXODFLyQDFRUWRSOD]R¿JXUD
+Figura 66. Previsiones económicas globales.
+Fuente: Software A VIN.
+Obsérvese que en algunas de las pantallas de introducción de da tos apa-
+rece un espacio titulado «referencias del modelo narrativo»: se  trata de infor-
+mación importada desde el lienzo de modelo de negocio como enla ce con el 
+modelado descriptivo para asegurar la consistencia de ambos mod elados, en 
+el sentido de tener en cuenta los mismos elementos.
+Desde esta pantalla, mediante el botón PREVISIONES  de la parte su-
+SHULRUDFFHGHPRVDOIRUPXODULR/Ë1($635(9,6,21(6¿JXUD GRQGH
+vamos a detallar datos clave de cada una de las líneas de negoc io que hemos 
+GH¿QLGR
+
+
+Para saltar con red 125
+Figura 67. Previsiones económicas por línea de negocio.
+Fuente: Software A VIN.
+Aquí hemos de aportar al modelo información sobre la distribuci ón tem-
+poral esperada de las ventas y la demanda en una base mensual y , también, la 
+política que pensamos adoptar respecto al cobro de las ventas.
+$GHPiVHVQHFHVDULRGH¿QLUSROtWLFDVGHSURGXFFLyQ\GHFRPSUD VGH
+materiales, su distribución temporal y la política de pago de l as compras. Fi-
+nalmente, se debe precisar la cuantía de los otros costes varia bles, expresada 
+como porcentaje sobre el importe de la venta, y la política de pago corres-
+pondiente.
+(QODVGRVSDQWDOODVVLJXLHQWHVUHODWLYDVD*$6726*(1(5$/(6 ¿JX-
+UD\*$6726'(3(5621$/¿JXUDHOPRGHORQRVSLGHTXH LGHQ-
+WL¿TXHPRVHOFRQFHSWRGHJDVWRHVWLPHPRVVXLPSRUWHDQXDOOD GLVWULEXFLyQ
+temporal de su devengo y la política de pago correspondiente.
+Figura 68. Previsión gastos generales.
+Fuente: Software A VIN.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 126
+Figura 69. Previsión gastos de personal.
+Fuente: Software A VIN.
+El paso siguiente en la elaboración del modelo a corto plazo es  el de espe-
+FL¿FDUODVLQYHUVLRQHVDUHDOL]DU\ODVSUHYLVLRQHV¿QDQFLHUDV FRUUHVSRQGLHQWHV
+DODVPLVPDV¿JXUD
+Figura 70. Previsión de inversiones.
+Fuente: Software A VIN.
+En concreto, en la pantalla INVERSIONES-PREVISIONES se nos pide  
+GH¿QLUHOREMHWRGHODLQYHUVLyQODIHFKDGHDGTXLVLFLyQ\GH VXSRVLEOHYHQWD
+importes y vida útil. El modelo genera automáticamente el gasto  de amor-
+tización mensual. Pinchando en el botón PAGOS  accedemos a la pantalla 
+INVERSIONES-PAGOS, en la que debemos precisar el momento tempor al 
+concreto en que se realizarán pagos por las inversiones, ya sea  a corto como 
+DODUJRSOD]R¿JXUD
+Figura 71. Pagos de inversiones.
+Fuente: Software A VIN.
+
+
+Para saltar con red 127
+$9,1RIUHFHODSRVLELOLGDGGHFRQWHPSODUFRPRSDUWHGHOD¿QDQF LDFLyQ
+inicial la disposición de un préstamo bancario, para lo que hay  una pantalla 
+HVSHFt¿FDGHLQWURGXFFLyQGHGDWRV¿JXUD
+Figura 72. Préstamos.
+Fuente: Software A VIN.
+Otros botones para la introducción de previsiones son los sigui entes: 
+PREVISIONES FINANCIERAS , CONDICIONES FINANCIERAS  y  
+BALANCE INICIAL .
+)LJXUD3UHYLVLRQHV¿QDQFLHUDV
+Fuente: Software A VIN.
+(QHOIRUPXODULRGH35(9,6,21(6),1$1&,(5$6¿JXUDLQWUR -
+duciremos, si fuese necesario, previsiones sobre operaciones re lacionadas 
+FRQPRGL¿FDFLRQHVGHFDSLWDOVRFLDOVXEYHQFLRQHVHVSHUDGDV\¿ DQ]DV2WUD
+LQIRUPDFLyQ¿QDQFLHUDUHOHYDQWHSDUDHOPRGHORVHLQFRUSRUDHQ HOIRUPXODULR
+&21',&,21(6),1$1&,(5$6¿JXUD
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 128
+)LJXUD&RQGLFLRQHV¿QDQFLHUDV
+Fuente: Software A VIN.
+Finalmente, una información clave a incluir es la del balance i nicial. La 
+pantalla BALANCE INCIAL nos facilita su introducción y solicita  informa-
+ción adicional sobre vencimientos de los cobros y pagos pendien tes, caso de 
+TXHHOSUR\HFWRQRVHDXQDHPSUHVDGHQXHYDFUHDFLyQ¿JXUD 
+Figura 75. Balance inicial.
+Fuente: Software A VIN.
+5.4.1.2. Resultados 
+Presionando en el botón ACTUALIZAR CORTO , en el panel del mode-
+ORQXPpULFR¿JXUDODVSUHYLVLRQHV\GHFLVLRQHVVREUHHOS UR\HFWRTXHVH
+han incorporado al modelo numérico a través de las pantallas de  entrada de 
+datos anteriores son procesadas por el modelo, el cual genera l os resultados 
+(informes) que podemos visualizar en la columna de pantallas co rrespondien-
+WH\TXHGHVFULEHQODVLWXDFLyQHFRQyPLFR¿QDQFLHUDGHOSUR\HF WRHQHOFDVR
+que se cumplieran dichas previsiones.
+
+
+Para saltar con red 129
+El botón  PLAN VENTAS  da acceso a la primera de las pantallas de Re-
+VXOWDGRV\SHUPLWHYLVXDOL]DUJUi¿FDPHQWH\PHGLDQWHFLIUDVO DGLVWULEXFLyQ
+WHPSRUDOGHODVYHQWDVWRWDOHV\SRUOtQHDVGHQHJRFLR¿JXUD 
+Figura 76. Plan de ventas.
+Fuente: Software A VIN.
+(OIRUPXODULR5(68/7$'26/Ë1($6'(1(*2&,2PXHVWUDJUi¿FD -
+PHQWH\HQFLIUDVODFRQWULEXFLyQDORVEHQH¿FLRVGHFDGDOtQ HDGHQHJRFLR
+¿JXUD(V~WLOSDUDHODERUDUXQDGHFLVLyQVREUHHOPDQWHQL PLHQWRGHXQD
+línea de negocio o sobre si es conveniente su reestructuración.  
+Figura 77. Resultados por líneas de negocio.
+Fuente: Software A VIN.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 130
+/DSDQWDOOD5(68/7$'26¿JXUDSUHVHQWDODFXHQWDGHUHVXOWD GRV
+por año en una base mensual en sus ítems más relevantes. Varios  botones  
+(COSTE DE VENTAS , V ARIABLES ...) proporcionan información más de-
+tallada.
+Figura 78. Resultados a corto plazo.
+Fuente: Software A VIN.
+El botón  BALANCES  dirige al formulario BALANCES CORTO que 
+VHPXHVWUDHQOD¿JXUD\TXHGHVFULEHPHQVXDOPHQWHODFRPSR VLFLyQGHO
+balance de situación del negocio:
+Figura 79. Balance a corto plazo.
+Fuente: Software A VIN.
+
+
+Para saltar con red 131
+El siguiente botón en la columna Resultados del panel del model o numé-
+rico es  TESORERÍA , que da acceso al formulario COBROS. En el mismo 
+se muestran todos los cobros mensuales, y por diferentes concep tos, que se 
+GHULYDQGHODVSUHYLVLRQHVLQWURGXFLGDVHQODHQWUDGDGHGDWRV ¿JXUD
+Figura 80. Presupuesto tesorería - cobros.
+Fuente: Software A VIN.
+El botón PAGOS  abre el formulario PRESUPUESTO DE TESORERÍA 
+– PAGOS compuesto por 19 columnas, correspondientes a diferente s criterios 
+de pago, y la columna de totales. Como en el caso anterior, es el resultado de 
+las previsiones y decisiones introducidas en las pantallas de e ntrada de datos 
+¿JXUD
+Figura 81. Presupuesto de tesorería - pagos.
+Fuente: Software A VIN.
+El formulario TESORERÍA – POSICIÓN es el más relevante en 
+el modelo numérico a corto plazo. Se accede al mismo desde el b otón 
+ POSICIÓN TESORERÍA  ¿JXUD(VWHLQIRUPHGHUHVXOWDGRPXHVWUD
+la situación de liquidez del proyecto en base mensual. Lo impor tante es 
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 132
+TXHLGHQWL¿FDODVQHFHVLGDGHV¿QDQFLHUDVGHOSUR\HFWRFRPRUHVX OWDGRGHO
+HTXLOLEULRHQWUHFREURV\SDJRVTXHSXHGHQVHUSRVLWLYDVGp¿F LWGHUHFXUVRV
+¿QDQFLHURVRQHJDWLYDVVXSHUiYLW¿QDQFLHUR6LODVQHFHVLGDG HV¿QDQFLHUDV
+son negativas (sobra dinero) o, siendo negativas (falta dinero) , pueden ser 
+resueltas, concluiremos que el proyecto es viable a corto plazo . En caso con-
+WUDULRHVWRHVTXHKDFHQIDOWDIRQGRVSDUDFXEULUODVQHFHVLG DGHV¿QDQFLHUDV
+\FRQVHJXLUORVVXSRQHXQDGL¿FXOWDGLPSRUWDQWHRVHFRQVLGHUD TXHHVLPSR -
+VLEOHODFRQFOXVLyQVHUiTXHHOSUR\HFWRQRHVYLDEOHHQVXGH ¿QLFLyQDFWXDO\
+GHEHPRGL¿FDUVHRUHFKD]DUVHFRQLQGHSHQGHQFLDGHVXUHQWDELOLG DG
+Figura 82. Presupuesto de tesorería – posición.
+Fuente: Software A VIN.
+Por último, el formulario PUNTOS CRÍTICOS proporciona cifras cl aves 
+SDUDHODQiOLVLVGHOSUR\HFWRDFRUWRSOD]R¿JXUD
+Figura 83. Puntos críticos.
+Fuente: Software A VIN.
+
+
+Para saltar con red 133
+5.4.2. Modelo numérico a largo plazo
+En este submódulo se simula la evolución del proyecto en el hor izonte a largo 
+SOD]RGHVGHODSHUVSHFWLYDHFRQyPLFD\¿QDQFLHUDPHGLDQWHXQDS UR\HFFLyQ
+VLPSOHWRPDQGRFRPREDVHODVLWXDFLyQGH¿QLGDSRUODVLPXODFLy QDFRUWR
+plazo. Esta visión a largo es, por tanto, sintética, no se deti ene en los detalles 
+que han sido objeto del modelo a corto y se centra únicamente e n las previ-
+siones sobre las principales variables.  
+Ɣ 6LQHPEDUJRHOSURFHVRSDUDJHQHUDUODSUHYLVLyQDODUJRSOD ]RHVHO
+mismo que en el corto plazo: 
+Ɣ 8QSXQWRGHSDUWLGDHOEDODQFHREWHQLGRHQODVLPXODFLyQDF RUWRSOD]R
+y unas previsiones sobre las principales variables (entrada de datos)
+Ɣ /D DSOLFDFLyQ SURFHVD OD LQIRUPDFLyQ LQWURGXFLGD ERWyQ  
+ACTUALIZAR A LARGO ) y 
+Ɣ 0XHVWUDODVFRQVHFXHQFLDVSDUDHOSUR\HFWRHQODKLSyWHVLVGH TXHVH
+cumplan las previsiones (resultados).
+7HQHPRVLJXDOTXHHQHOPRGHORDFRUWRGRVFROXPQDVGHERWRQH V¿JX -
+ra 84). La primera da acceso a los formularios para la entrada de datos y la 
+segunda a los formularios que muestran las consecuencias de la proyección 
+a largo plazo.
+Figura 84. Modelo numérico a largo.
+Fuente: Software A VIN.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 134
+5.4.2.1 Entrada de datos a largo plazo
+La columna de entrada de datos a largo consta únicamente de dos  botones. 
+El primero, ECONÓMICOS,  abre el formulario PREVISIONES ECONÓMI-
+&$6/$5*2¿JXUD(OIRUPXODULRWLHQHGRVSDUWHVODSDUWH VXSHULRUVLU -
+ve para introducir las previsiones sobre las principales variab les (ventas, coste 
+de ventas...) y la parte inferior las variables propias del cap ital circulante. 
+Como último dato, la aplicación solicita el valor residual del proyecto al 
+¿QDOGHOKRUL]RQWHGHSODQL¿FDFLyQFRQWHPSODGR
+Figura 85. Previsiones económicas a largo.
+Fuente: Software A VIN.
+El segundo botón FINANCIEROS  abre el formulario PREVISIONES 
+),1$1&,(5$6/$5*2¿JXUDTXHGHQXHYRHVWiGLYLGLGRHQGRV SDU-
+tes: la superior para introducir las previsiones sobre capital social, dividendos, 
+¿DQ]DV\VXEYHQFLRQHVSUHYLVLRQHVTXHQRVHGHULYDQGHODVRSH UDFLRQHVFR -
+rrientes. Otras columnas recogen la información introducida en otros formu-
+ODULRVSUHYLRVSUpVWDPRV\SDJRVSRUDFWLYRV¿MRV/DSDUWH LQIHULRUUHÀHMD
+ODVGHFLVLRQHVUHODWLYDVDOSODQ¿QDQFLHURTXHVHIRUPXODUiQSR VWHULRUPHQWH
+
+
+Para saltar con red 135
+)LJXUD3UHYLVLRQHV¿QDQFLHUDVDODUJR
+Fuente: Software A VIN.
+Introducidas las previsiones y presionando el botón  ACTUALIZAR 
+LARGO , la aplicación procesa la información y devuelve sus consecuen cias 
+HFRQyPLFR¿QDQFLHUDVDODVTXHVHDFFHGHFRQORVERWRQHVGHOD VHJXQGD
+columna (resultados).
+5.4.2.2 Resultados
+Los dos primeros botones  RESULTADOS  y BALANCES  nos conducen al 
+IRUPXODULR5(68/7$'26¿JXUD\DOIRUPXODULR%$/$1&(6¿JXU D
+En ambos se muestra desde una perspectiva agregada su evolución  a largo plazo.
+Figura 87. Resultados a largo.
+Fuente: Software A VIN.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 136
+Figura 88. Balances a largo.
+Fuente: Software A VIN.
+El tercer botón  NECESIDAD FINANCIERA  da acceso al formulario 
+1(&(6,'$'),1$1&,(5$±3/$1¿JXUD/DDSOLFDFLyQKDUHDOL] DGR
+HOFiOFXORGHODQHFHVLGDG¿QDQFLHUD\SURSRUFLRQDLQIRUPDFLyQ SDUDGHFLGLU
+HOSODQ¿QDQFLHUR
+(VHQFLDOPHQWHXQSODQ¿QDQFLHURHVWLSXODHQHOFDVRGHXQDQH FHVLGDG
+¿QDQFLHUDSRVLWLYDFDUHQFLDGHGLQHURGHTXpIXHQWHVGH¿QDQ FLDFLyQVH
+obtendrán los fondos para cubrir dicha necesidad; en el caso de  que la nece-
+VLGDG¿QDQFLHUDSUHYLVWDUHVXOWHQHJDWLYDVREUDQWHGHGLQHUR HOSODQGHEH
+HVSHFL¿FDUFyPRVHDSOLFDUiHVHVXSHUiYLW
+6LHVSRVLEOHHODERUDUXQSODQ¿QDQFLHURSDUDFXEULUODVQHFHVL GDGHV¿QDQ -
+FLHUDVTXHPHUH]FDVX¿FLHQWHFRQ¿DQ]DVHSRGUiFRQFOXLUTXHHO SUR\HFWRHV
+YLDEOH¿QDQFLHUDPHQWH(QFDVRFRQWUDULRHOSUR\HFWRGHEHVHU UHIRUPXODGRR
+desechado por incumplir el primer criterio básico de validación  del modelado 
+numérico.
+
+
+Para saltar con red 137
+)LJXUD1HFHVLGDG¿QDQFLHUDGHOSUR\HFWRHODERUDFLyQSODQ ¿QDQFLHUR
+Fuente: Software A VIN.
+8QDYH]HODERUDGRHOSODQ¿QDQFLHURXQDSHUVSHFWLYDJOREDOGHO PLVPR
+SXHGHREVHUYDUVHHQHOIRUPXODULR3/$1),1$1&,(52¿JXUDDO TXH
+se accede mediante el botón  PLAN FINANCIERO  del panel del modelo 
+numérico.
+)LJXUD3ODQ¿QDQFLHUR5HVXPHQ
+Fuente: Software A VIN.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 138
+El segundo criterio de validación para el modelo numérico consi ste en 
+que el proyecto debe ser rentable, debe interesar su implementa ción desde el 
+SXQWRGHYLVWD¿QDQFLHUR3DUDFRPSUREDUORSRGHPRVDFFHGHUDO IRUPXODULR
+V ALORACIÓN - V ALOR RESIDUAL mediante el botón  V ALORACIÓN  
+GHVGHHOSDQHOGHOPRGHORQXPpULFR¿JXUD
+)LJXUD9DORUDFLyQSUR\HFWRYDORUUHVLGXDOÀXMRV\FULWH ULRVGHYDORUDFLyQ
+Fuente: Software A VIN.
+(OIRUPXODULRPXHVWUDORVÀXMRVGHFDMDJHQHUDGRVSRUHOSUR\HF WR\HQ
+HVWHFDVRDVXPHODSUHYLVLyQGHÀXMRUHVLGXDOTXH¿QDOL]DODY LGDGHOPLVPR
+6REUHHVWRVÀXMRVVHDSOLFDQORVFULWHULRVHVWiQGDUGHYDORUDFL yQGHSUR\HFWRV
+valor actual neto (V AN), la tasa interna de rendimiento (TIR), plazo de recu-
+peración descontado (PayBack) e índice de rentabilidad (IR).
+Al presionar el botón PERPETUIDAD  se abre el formulario V ALORA-
+&,Ï1±3(53(78,'$'¿JXUDHQHOTXHVHSUHVHQWDODPLVPDLQ IRUPD -
+
+
+Para saltar con red 139
+FLyQSHUREDMRODKLSyWHVLVGHXQDYLGDGHOSUR\HFWRLQGH¿QLGD \VX¿FLHQWH -
+mente larga (perpetuidad).
+Estos formularios ayudan a decidir si el proyecto interesa desd e el punto 
+GHYLVWDHFRQyPLFR¿QDQFLHUR\VRQODEDVHSDUDHOVHJXQGRFULW HULRGHYDOL -
+dación numérica del proyecto: «es rentable», «crea riqueza».
+Figura 92. Valoración proyecto (perpetuidad).
+Fuente: Software A VIN.
+Para complementar y apoyar la decisión sobre el proyecto, la ap licación 
+muestra los formularios de RATIOS a los que se accede mediante el botón 
+RATIOS . Los formularios muestran los indicadores más relevantes en té rmi-
+QRVGHOLTXLGH]H¿FLHQFLDUHQWDELOLGDG\HQGHXGDPLHQWR¿JXUD 
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 140
+Figura 93. Ratios.
+Fuente: Software A VIN.
+5.4.3. Escenarios
+El modelo narrativo en su herramienta ANÁLISIS DE ESCENARIOS de s-
+FULELyODVFDUDFWHUtVWLFDVGHORVHVFHQDULRVLGHQWL¿FDGRVFRPR SUREDEOHSHVL -
+mista y optimista. El modelo numérico traduce a cifras las apor taciones del 
+narrativo.
+En el panel del modelo numérico hay tres referencias a escenari os que se 
+KDQGHVWDFDGRFRQWUHVÀHFKDVURMDV¿JXUD
+1. SELECCIONAR ESCENARIO. Para seleccionar el escenarios o esce -
+narios con los que va a trabajar el modelo. Permite cambiar fác ilmente 
+de escenario.
+2. ESCENARIOS. El botón  ESCENARIOS  abre el formulario ESCE-
+1$5,26&2572¿JXUDHQHOTXHVHLQWURGXFHQODVSUHYLVLRQHV 
+SDUDODVYDULDEOHVPiVVLJQL¿FDWLYDVGHORVHVFHQDULRVRSWLPLVW D\SH -
+simista.
+3. CERRAR ESCENARIO. Al pinchar en el botón  CERRAR 
+ESCENARIO , la aplicación guarda la información que se ha trabajado 
+en el modo «editar» y queda disponible para el modo «ver».
+
+
+Para saltar con red 141
+Figura 94. Escenarios en el panel del modelo numérico.
+Fuente: Software A VIN.
+Figura 95. Escenarios a corto.
+Fuente: Elaboración propia.
+Para facilitar una perspectiva de la variabilidad del proyecto respecto 
+a los escenarios contemplados, se muestran los formularios ANÁL ISIS DE 
+6(16,%,/,'$'$&25723/$=2¿JXUD\$1È/,6,6'(6(16,%, -
+/,'$'$/$5*23/$=2¿JXUDDORVTXHVHDFFHGHGHVGHORVER WRQHV
+SENSIBILIDAD  en el panel del modelo numérico.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 142
+Figura 96. Análisis sensibilidad a corto.
+Fuente: Software A VIN.
+Figura 97. Análisis sensibilidad a largo.
+Fuente: Software A VIN.
+0ඈൽൾඅඈൾർඈඌඈർංൺඅ
+El módulo ecosocial proporciona al usuario del software  A VIN un conjunto 
+de herramientas que le facilitan la elaboración de un plan de s ostenibilidad 
+HVSHFt¿FRDORViPELWRVPHGLRDPELHQWDO\VRFLDO&RPSOHPHQWDULD PHQWHHO
+modelado ecosocial se culmina con un plan de comunicación y dif usión de 
+la información.
+El modelado ecosocial adopta una tercera «lente» para abordar e l diseño 
+del modelo de negocio. En efecto, el modelado narrativo es desc riptivo, pues 
+persigue determinar los elementos sustanciales del negocio y su  estructura; el 
+modelado numérico es predictivo por cuanto pretende anticipar e l desempeño 
+HFRQyPLFR¿QDQFLHURGHOQHJRFLRHOHFRVRFLDOHQ¿QVHHQIRFD DHVWDEOHFHU
+objetivos y metas a alcanzar y cumplir en las dimensiones socia l y medioam-
+
+
+Para saltar con red 143
+biental para garantizar la naturaleza comprometida y responsabl e del proyecto 
+de negocio sometido a modelado y evaluación.
+De cara a este propósito, el trabajo en el módulo ecosocial se plantea en 
+tres fases: en la primera, «mapeos», se trata de detectar y exp licitar los posi-
+bles impactos en la sociedad y la naturaleza, ya sean positivos  o negativos, 
+que la actividad del negocio presumiblemente tendrá; este ejerc icio requie-
+UHOyJLFDPHQWHTXHLGHQWL¿TXHPRVDOPLVPRWLHPSRORVJUXSRVGH LQWHUpV
+[stakeholders ] vinculados al negocio y que puedan ser afectados por dichos 
+impactos, así como los ODS (objetivos de desarrollo sostenible)  relacionados 
+con los mismos. En la segunda, «Plan de Sostenibilidad», la tar ea consiste 
+en asociar objetivos a los impactos reseñados en la fase anteri or, y hacerlos 
+operativos mediante la vinculación a los mismos de indicadores y metas con-
+FUHWDVDFRUWR\PHGLRSOD]RSRU¿QODWHUFHUDIDVH©FRPXQLF DFLyQªVXSRQH
+determinar los canales de comunicación que se utilizarán para l a difusión de 
+la información en relación a cada uno de los objetivos.
+A continuación, vemos la pantalla inicial del módulo ecosocial,  al que 
+accederemos mediante el botón MODELO ECOSOCIAL  desde el menú 
+JHQHUDOGHODDSOLFDFLyQ¿JXUD
+Figura 98. Panel Modelo ECOSOCIAL.
+Fuente: Software A VIN.
+Como vemos, en la pantalla aparecen secuenciadas las tres fases  a las que 
+hemos hecho referencia más arriba. Procedemos empezando por la columna 
+de botones de la izquierda.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 144
+5.5.1. Impactos y grupos de interés
+El primer botón, MAPEO CADENA DE V ALOR , nos lleva a la pantalla 
+VLJXLHQWH¿JXUD
+)LJXUD,GHQWL¿FDFLyQGHLPSDFWRV&DGHQDGHYDORU
+Fuente: Software A VIN.
+En la misma podemos observar los siguientes elementos: arriba a  la iz-
+TXLHUGDXQJUi¿FRGHXQDFDGHQDGHYDORUJHQpULFDTXHHVODU HIHUHQFLDD
+utilizar para pensar sistemáticamente en los posibles impactos;  en la línea 
+LQPHGLDWDPHQWHGHEDMRGHOJUi¿FRGRVERWRQHVWLSR©DGHODQWHª\ ©DWUiVªQRV
+permiten movernos a lo largo de las distintas actividades que c onstituyen la 
+cadena de valor. Para registrar y vincular los impactos a cada actividad de 
+la cadena de valor en la parte inferior izquierda de la pantall a aparecen dos 
+formularios; a la derecha se proporciona un texto de ayuda que facilita la 
+UHÀH[LyQ
+Por otra parte, y dentro de esta primera fase, procede acceder a otras 
+dos pantallas. A la primera, en la que señalaremos los grupos d e interés que 
+consideramos relevantes para el proyecto de negocio que se está  modelando, 
+se llega mediante el botón GRUPOS INTERÉS ¿JXUD\SUHVHQWDGRV
+áreas diferenciadas: en la parte izquierda procede seleccionar los grupos que 
+se considere relevantes para el proyecto de negocio, en tanto q ue a la dere-
+FKDYHUHPRVVHFXHQFLDOPHQWHXQD¿FKDGHWDOODGDGHFDGDXQRGHO RVJUXSRV
+VHOHFFLRQDGRVHQODTXHVHHVSHFL¿FDQGDWRVLPSRUWDQWHVSDUDJH QHUDUSRVWH -
+riormente el Plan de Sostenibilidad.
+
+
+Para saltar con red 145
+)LJXUD,GHQWL¿FDFLyQGHJUXSRVGHLQWHUpV
+Fuente: Software A VIN.
+La última pantalla a acceder en esta fase (botón ODS ) nos permite selec-
+cionar los objetivos de desarrollo sostenible de la Agenda 2030  de las Nacio-
+nes Unidas que consideremos que debemos tener especialmente en cuenta en 
+HOGHVDUUROORGHOSUR\HFWRGHQHJRFLR¿JXUD
+Figura 101. Selección de ODS.
+Fuente: Software A VIN.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 146
+5.5.2. Plan de sostenibilidad social y medioambiental
+La segunda fase de uso del módulo ecosocial nos facilita la ela boración de un 
+plan básico de sostenibilidad, es decir, un conjunto de objetiv os, indicadores 
+\PHWDVYLQFXODGRDORVLPSDFWRVLGHQWL¿FDGRVHQODIDVHDQWHUL RU\RULHQWDGR
+a potenciar los positivos y a anular o, al menos, mitigar los n egativos.
+Para desarrollar esta segunda fase accedemos a la siguiente sec uencia de 
+pantallas:
+5.5.2.1. Impactos
+En primer lugar, pinchamos en el botón IMPACTOS , y veremos un listado 
+GHWRGRVORVTXHKHPRVUHJLVWUDGRHQODIDVHGHPDSHR¿JXUD (QHVWH
+punto podemos ver o, en su caso, introducir, a través del botón  descripción  
+asociado a cada impacto, una explicación del impacto y una rela ción de obje-
+tivos relacionados con el mismo. 
+)LJXUD,PSDFWRVLGHQWL¿FDGRV
+Fuente: Software A VIN.
+En el caso del botón a la derecha de la pantalla, DESCRIPCIONES Y 
+OBJETIVOS YDPRVDSRGHUYHUOD¿FKDGHWDOODGDGHLPSDFWRVVHFXHQFLDOPHQ WH
+PHGLDQWHORVERWRQHV©DGHODQWHª\©DWUiVªGHODSDUWHVXSHULRU ¿JXUD
+Figura 103. Impactos: descripciones y objetivos.
+Fuente: Software A VIN.
+
+
+Para saltar con red 147
+5.5.2.2. Objetivos
+A continuación, y con la misma dinámica, se trabaja con los obj etivos. Desde 
+el menú general del módulo, con el botón OBJETIVOS llegamos a u n listado 
+GHORVREMHWLYRVFUHDGRV¿JXUD
+Figura 104. Objetivos de sostenibilidad.
+Fuente: Software A VIN.
+Mediante el botón descripción DVRFLDGRDFDGDXQRDFFHGHPRVDXQD¿FKD
+GHWDOODGDGHFDGDREMHWLYRFRQXQDGH¿QLFLyQODUJDGHOPLVPR \WUHVIRUPX -
+larios que nos permiten vincular cada objetivo con grupos de in terés, ODS y 
+VHJPHQWRVGHODFDGHQDGHYDORUFRQFUHWRV¿JXUD
+Figura 105. Objetivo - asociación.
+Fuente: Software A VIN.
+$HVWDV¿FKDVWDPELpQSRGHPRVOOHJDUPHGLDQWHHOERWyQ DESCRIPCIONES 
+Y ASOCIACIONES (QHVWHFDVRSRGUHPRVDYDQ]DUGHXQD¿FKDDRWUDVLQ
+pasar por la pantalla anterior.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 148
+5.5.2.3. Indicadores y metas
+El paso siguiente en esta fase requiere crear indicadores y vin cularlos a obje-
+tivos. Para ello mediante el botón INDICADORES  accedemos a la pantalla 
+,1',&$'25(6¿JXUD
+Figura 106. Indicadores.
+Fuente: Software A VIN.
+Aquí veremos los objetivos (columna de la derecha) y los indica dores 
+vinculados a los mismos. Con el botón asociado Crear INDICADOR  acce-
+deremos a un formulario que nos permite introducir nuevos indic adores o, en 
+VXFDVRPRGL¿FDUORV\DH[LVWHQWHV¿JXUD
+Figura 107. Indicadores – Crear.
+Fuente: Elaboración propia.
+
+
+Para saltar con red 149
+Finalmente, la fase se completa con la introducción de metas, e s decir, 
+valores datados a corto y largo plazo, para los indicadores uti lizados. Para ello 
+DFFHGHPRVDODSDQWDOOD,1',&$'25(6±0(7$6¿JXUDFRQHO ERWyQ
+METASGHOPHQ~SULQFLSDOGHOPyGXOR¿JXUD
+Figura 108. Indicadores – Metas.
+Fuente: Software A VIN.
+5.5.3. Comunicación
+Esta última fase del modelado ecosocial se enfoca a organizar l a información 
+relativa al Plan de Sostenibilidad generada por el negocio y su  difusión. Para 
+ello, en primera instancia determinaremos qué canales de comuni cación 
+consideramos adecuado utilizar como medios de distribución de l a 
+información, utilizando el formulario al que accedemos mediante  el botón 
+SELECCIÓN DE CANALES ¿JXUD
+Figura 109. Canales de comunicación – Selección.
+Fuente: Software A VIN.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 150
+Después, el botón ASIGNACIÓN DE CANALES  nos lleva a una pan-
+talla en la que, para cada objetivo, podemos asignar el o los c anales que 
+consideramos adecuado utilizar para transmitir información rela tiva al mismo 
+¿JXUD
+Figura 110. Canales de comunicación - Asignación.
+Fuente: Software A VIN.
+Finalmente, el módulo ecosocial proporciona al usuario una seri e de infor-
+PHVSUHGH¿QLGRVJHQHUDGRVDSDUWLUGHODLQIRUPDFLyQSUHYLDPHQW HLQWURGXFL -
+da. Especialmente interesante pensamos que es el que se genera mediante el 
+botón RESUMEN GLOBAL ¿JXUD(QHVWH$9,1QRVSUHVHQWDGHXQD
+IRUPDRUGHQDGD\GHIiFLOOHFWXUDFDGDXQRGHORVLPSDFWRVLGHQ WL¿FDGRVFRQ
+su descripción, los objetivos creados para paliar los negativos  o reforzar los 
+positivos, el o los indicadores vinculados para facilitar su ge stión, las metas 
+a corto y largo plazo asociadas, el o los objetivos de desarrol lo sostenible re-
+ODFLRQDGRV\HQ¿QHORORVFDQDOHVGHFRPXQLFDFLyQDXWLOL]D USDUDGLIXQGLU
+información relativa al desempeño del negocio respecto a dicho impacto.
+Figura 111. Comunicación - Informe resumen.
+Fuente: Software A VIN.
+
+
+Para saltar con red 151
+9ൺඅංൽൺർංඬඇൽൾඅඈඌආඈൽൾඅൺൽඈඌൾංඇൿඈඋආൾඌ
+El último módulo de A VIN, al que accedemos a través del botón V ALIDACIÓN 
+E INFORMES  del menú principal, contiene dos submódulos: el primero, 
+V ALIDACIÓN, nos facilita el uso de tres herramientas de autoeva luación 
+para que el usuario, de modo asistido y global, pueda hacer una  estimación 
+de su grado de satisfacción con el diseño del modelo de negocio ; el 
+VHJXQGR ,1)250(6 RIUHFH P~OWLSOHV LQIRUPHV SUHGH¿QLGRV JHQHUD GRV
+automáticamente a partir de la información introducida en los t res módulos 
+SUHFHGHQWHV¿JXUD
+Figura 112. Panel validación e informes.
+Fuente: Software A VIN.
+5.6.1. Validación
+Ateniéndonos a la lógica de modelación que hemos implementado e n A VIN, 
+la de un triple modelado (narrativo, numérico y ecosocial), hem os considerado 
+coherente enfocar también la evaluación del resultado del proce so de diseño 
+GHOPRGHORGHQHJRFLRPHGLDQWHSUXHEDVHVSHFt¿FDVFRQHOIRUPD WRXQL¿FDGR
+de test de autoevaluación) a cada uno de los modelados desarrol lados. 
+5.6.1.1. Validación narrativa
+(QHOFDVRGHOPRGHORQDUUDWLYRODDXWRHYDOXDFLyQVHRULHQWDD UHÀH[LRQDU\
+juzgar, sobre la congruencia de los diferentes elementos inclui dos en el relato 
+del modelo de negocio, de cara a determinar el grado de utilida d (coherencia 
+entre propuesta de valor y segmentos de clientes), de factibili dad (coherencia 
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 152
+entre infraestructuras, costes y propuesta de valor), etc. El p rocedimiento 
+concreto de validación consiste en un listado de preguntas que el usuario 
+GHEHFRQWHVWDUXWLOL]DQGRHQVXVUHVSXHVWDVXQDHVFDOD/LNHUWS DUDUHÀHMDUVX
+opinión al respecto, incluyendo un espacio junto a la respuesta  para explicar 
+HOUD]RQDPLHQWRTXHOHKDOOHYDGRDHVDUHVSXHVWDHQFRQFUHWR ¿JXUD
+Figura 113. Validación narrativa.
+Fuente: Software A VIN.
+Una vez completado el test, y pulsando el botón AUTOEV ALUACIÓN  
+arriba en la pantalla, A VIN genera de modo automático un resume n de las res-
+puestas al test de validación mediante un código de colores de tipo semáforo 
+que facilita de un vistazo saber si la prueba de validación ha sido positiva o 
+negativa. En este último caso, dicho resumen animaría al usuari o a revisar el 
+PRGHORHODERUDGR¿JXUD
+Figura 114. Test de coherencia narrativa – autoevaluación.
+Fuente: Software A VIN.
+
+
+Para saltar con red 153
+(QHVWHSXQWRHVSHUWLQHQWHUHFRUGDUXQHVTXHPD\DLQFOXLGR¿J XUDFDSt -
+tulo 4) en el que, de forma sintética, presentamos las caracter ísticas claves de un 
+modelo de negocio sostenible. A saber, desde una perspectiva na rrativa, el modelo 
+KDGHVHUFRKHUHQWH\~WLO¿JXUDGHVGHODQXPpULFDYLDE OH\UHQWDEOH¿JXUD
+\GHVGHODHFRVRFLDOFRPSURPHWLGR\UHVSRQVDEOH¿JXUD 
+Por otra parte, y leyendo el esquema en modo cruzado, se nos of rece otra 
+lectura: un modelo de negocio que es coherente (narrativamente) , viable (nu-
+méricamente) y comprometido (ecosocialmente) es un modelo que p uede ser 
+apoyado e implementado; un modelo de negocio que es útil, renta ble y res-
+ponsable es, a su vez, un modelo del que interesa su implementa ción porque 
+aportará valor a sus propietarios y a otros grupos de interés.
+$VtFDGDXQRGHORVWHVWGHYDOLGDFLyQGHPyGXORVHRULHQWDQD YHUL¿FDU
+el cumplimiento de las condiciones correspondientes indicadas e n el esquema.
+Figura 115. Condiciones del modelado narrativo.
+Fuente: Elaboración propia.
+5.6.1.2. Validación numérica
+En el caso del modelado numérico vamos a abordar si el proyecto  es viable y 
+UHQWDEOHHQWpUPLQRVHFRQyPLFR¿QDQFLHURV
+Figura 116. Condiciones del modelado numérico.
+Fuente: Elaboración propia.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 154
+3DUDODHYDOXDFLyQGHOPRGHORQXPpULFRHVGHFLUHFRQyPLFR¿QD QFLHUR
+el propio software  A VIN facilita de modo automático al usuario un conjunto 
+de indicadores preseleccionados, así como los valores concretos  de estos que 
+se derivan de la información introducida en el correspondiente módulo de di-
+seño del modelo numérico. Por otra parte, al principio del test  el usuario debe 
+LQWURGXFLUYDORUHVGHVHDGRVGHSDUiPHWURVFODYHSDUDODYDOLGDF LyQ¿QDQFLHUD
+del proyecto (rentabilidad mínima anual, plazo máximo de recupe ración de 
+la inversión y nivel máximo de endeudamiento a corto plazo); a partir de la 
+FXDQWL¿FDFLyQTXHHOXVXDULRKDFHGHHVRVSDUiPHWURV$9,1JHQH UDDXWRPi -
+ticamente una preevaluación del modelo numérico. Veamos un esqu ema del 
+IXQFLRQDPLHQWRHQOD¿JXUDVLJXLHQWH¿JXUD
+Figura 117. Modelo numérico. Criterios de validación.
+Fuente: Elaboración propia.
+Figura 118. Validación numérica.
+Fuente: Software A VIN.
+
+
+Para saltar con red 155
+No obstante, es el usuario el que debe hacer, de nuevo utilizan do una 
+HVFDOD/LNHUW¿JXUDFRPRHQODHYDOXDFLyQGHOPRGHODGRQD UUDWLYROD
+YDOLGDFLyQGH¿QLWLYDTXHDOLJXDOTXHDQWHVSRGUHPRVYHUUHVX PLGDPHGLDQWH
+FyGLJRGHFRORUHVSDUDXQDIiFLOLQWHUSUHWDFLyQ¿JXUD
+Figura 119. Test de validación numérica.
+Fuente: Software A VIN.
+5.6.1.3. Validación ecosocial
+3DUDFRPSOHWDUODHYDOXDFLyQGHOPRGHORGHQHJRFLR$9,1RIUHFH ¿QDOPHQWH
+ODRSFLyQGHYDOLGDUHOPRGHORHFRVRFLDOGLVHxDGRD¿QGHUHFR QRFHUHLQWH -
+grar la triple perspectiva de la sostenibilidad en el proceso d e validación del 
+proyecto. A tal efecto, el test de sostenibilidad ecosocial se enfoca a una au-
+toevaluación estructurada en la que lo determinante es si el di seño del modelo 
+incluye objetivos de orden social y medioambiental que aseguren  una gestión 
+sostenible de las áreas clave del negocio, es decir, suministro s, operaciones, 
+distribución y comunicación y trasparencia. A tal efecto, de nu evo utilizamos 
+XQFXHVWLRQDULRHVWUXFWXUDGRDUHVSRQGHUPHGLDQWHHVFDOD/LNHUW ¿JXUD
+cuyo resultado resumido nos indica intuitivamente el grado de v alidez que en 
+HVWHWHUUHQRKHPRVGDGRDOPRGHORGLVHxDGR¿JXUD
+Figura 120. Condiciones del modelado ecosocial.
+Fuente: Elaboración propia.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 156
+Figura 121. Validación ecosocial.
+Fuente: Software A VIN.
+Figura 122. Test de sostenibilidad ecosocial.
+Fuente: Software A VIN.
+Observemos que el contenido de cada uno de los test de validaci ón es co-
+herente con el estilo de elaboración del modelo correspondiente : el modelado 
+narrativo consiste en la generación de una descripción de la es tructura y la 
+lógica de creación, distribución y captura de valor del modelo de negocio, por 
+lo que el criterio para validarlo debe ser la percepción de la consistencia de 
+esa estructura y del relato que construimos sobre la misma (el negocio es útil 
+y coherente); el modelado numérico es una simulación de la diná mica econó-
+PLFD\¿QDQFLHUDGHOQHJRFLRFRQSUHYLVLRQHVDFRUWR\ODUJRS OD]RSRUOR
+
+
+Para saltar con red 157
+TXHHOFULWHULRGHYDOLGDFLyQVHUiODFRQIRUPLGDGGHORVUHVXOW DGRV¿QDQFLHURV
+esperados con las expectativas previas de los promotores del pr oyecto (el ne-
+JRFLRHVYLDEOH\UHQWDEOHSRU¿QHOPRGHODGRHFRVRFLDOHVX QHMHUFLFLRSDU -
+cial de backcasting PHGLDQWHHOTXH¿MDPRVXQRVREMHWLYRV\VXVPHWDVFRPR
+referente para la posterior elaboración de estrategias, así que  la validación se 
+HQIRFDDYHUL¿FDUODLGHQWL¿FDFLyQGHLPSDFWRVGHOSUR\HFWRGH QHJRFLRHO
+negocio es comprometido y respons able). La cuestión es que pese  a ser, como 
+vemos, estilos de elaboración diferentes, hemos optado por un d iseño formal 
+del proceso de validación mediante cuestionarios similares, de manera que la 
+validación global del proyecto es muy simple de captar, visuali zando los tres 
+resúmenes de evaluación.
+5.6.2. Informes
+El submódulo INFORMES nos facilita la previsualización, impresi ón y des-
+FDUJDGHORVLQIRUPHVSUHGH¿QLGRVHQHO software  A VIN. Como podemos 
+REVHUYDUHQHOPHQ~GHOPyGXOR¿JXUDKD\GRVYtDVGHDFF HVRDORV
+informes: mediante el botón ESTANDAR  se nos ofrece una selección de los 
+informes que es posible generar en los tres módulos de modelado  de A VIN, 
+con la que tendríamos una documentación completa del modelo de negocio 
+¿JXUD
+Figura 123. Informes estándar.
+Fuente: Software A VIN.
+
+
+Evaristo Colomina Climent y Leonardo Yáñez Muñoz 158
+Alternativamente, y a través del botón PERSONALIZADO , el usuario 
+tiene la posibilidad de elegir uno a uno los informes que desea  incorporar a 
+VXGRFXPHQWDFLyQ¿JXUD
+Figura 124 Informes personalizados.
+Fuente: Software A VIN.
+5ൾൿൾඋൾඇർංൺඌ
+&ඈඅඈආංඇൺ(๟<ගඪൾඓ/ (2017). Evaluación de modelos de negocio asistida 
+por computador. En I. García-Medina, & V . Tur-Viñes, Diálogos bilate-
+rales entre investigadores de la Glasgow Caledonian University (Reino Unido) y la Universidad de Alicante (España). Estudios interdisciplinares (págs. 97-112). Alicante: Colección Mundo Digital de la Revista  Medite-
+rránea de Comunicación.
+5ൾർ඄ൾඋ-©0RGHOOLQJZLWKWRROVLVHDVLHUEHOLYHPHª 7KHH൵HFWV
+of tool functionality on modelling grammar usage beliefs. Information 
+Systems, 37 (3), 213-226.
+
+
+BIBLIOGRAFÍA
+$ൽൺආඌ&$  The Sustainable Development Goals, integrated thinking 
+and the integrated report, IIRC and ICA. Integrated Reporting (IR) , 1-52.
+$අ'ൾൻൾං0๟$ඏංඌඈඇ''HYHORSLQJD8QL¿HG)UDPHZRUN RIWKH
+Busines Model Concept. European Journal of Information Systems, 19 (3), 
+359-376.
+%ൺൽൾඇ)ඎඅඅൾඋ&๟0ඈඋ඀ൺඇ0  Business Models as Models. Long 
+Range Planning, 43 (2-3), 156-171.
+%අൺඇ඄6  The Four steps to the Epiphany: Successful Strategies for 
+Products that Win.  K&S Ranch Press.
+%අൺඇ඄6  Why the Lean Start-Up Changes Everything. Harvard 
+Business Review, 91 (5), 61-67.
+%අൺඇ඄6๟'ඈඋൿ%  The Startup Owner’ s Manual.  K & S  R a n c h  
+Press.
+%ඈർ඄ൾඇ1  Sustainable Business Models. En W. Leal Filho, A. M. 
+Azul, L. Brandli, A. Lange Salvia & T. Wall, Decent Work and Economic 
+Growth. Encyclopedia of the UN Sustainable Development Goals.  Cham: 
+Springer.
+%ඈർ඄ൾඇ16ർඁඎංඍ&๟.උൺൺංඃൾඇඁൺ඀ൾඇ.  Experimenting with 
+a circular business model: Lessons from eight cases. Environmental 
+innovation and societal transitions, 28 , 79-95.
+%ඈർ඄ൾඇ16ඁඈඋඍ65ൺඇൺ3๟(ඏൺඇඌ6  A value mapping tool 
+for sustainable business modelling. Corporate Governance International 
+Journal of Business in Society, 13 (5), 482-497.
+%ඈඈඇඌ)๟/ඳൽൾ඄ൾ)උൾඎඇൽ) (2013). Business models for suatainable 
+innovation: state-of-the-art and steps towards a research agend a. Journal 
+of Cleaner production, 45 , 9-19.
+%ඈඎඅൽංඇ඀. The economics of the coming spaceship earth. En H. E. 
+Daly, Environmental Quality Issues in a Growing Economy  (págs. 3-14). 
+Baltimore, Maryland, USA: Johns Hopkins University Press.
+
